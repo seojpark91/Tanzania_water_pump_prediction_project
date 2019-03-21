@@ -1,0 +1,10 @@
+# First data preprocessing
+pop = pd.read_csv('data/village-statistics.csv', sep=',', engine='python', skiprows=1, usecols=[1,2,3,4])
+pop = pop.rename(index=str, columns={"District": "district", 'Ward/Shehia': "ward", '\n    Village/Mtaa':"village", "Total Population":"population"})
+pop.population = pop.population.progress_apply(lambda x: x.strip().replace(",",""))
+pop.ward.fillna("Musoma", inplace=True)
+pop.ward = pop.ward.progress_apply(lambda x: x.strip())
+pop.ward = pop.ward.progress_apply(lambda x: x.encode("ascii", "ignore").decode("utf-8"))
+pop.population=pop.population.astype('float64')
+pop = reduce_mem_usage(pop)
+pop.to_csv("population_data.csv", encoding="utf-8")
