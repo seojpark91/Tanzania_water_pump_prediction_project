@@ -1,0 +1,3635 @@
+lga,ward,population
+arusha,bangata,9137.0
+arusha,bwawani,11118.0
+arusha,ilkidinga,10850.0
+arusha,kimnyaki,3488.0
+arusha,kiranyi,25468.0
+arusha,kisongo,8768.0
+arusha,mateves,15632.0
+arusha,mlangarini,12986.0
+arusha,moivo,27156.0
+arusha,mussa,11835.0
+arusha,mwandeti,17386.0
+arusha,nduruma,12042.0
+arusha,oldonyosambu,16484.0
+arusha,oljoro,7898.0
+arusha,olkokola,24736.0
+arusha,olmotonyi,18562.0
+arusha,olorieni,22426.0
+arusha,oltoroto,15450.0
+arusha,oltrumet,10224.0
+arusha,sambasha,9484.0
+arusha,sokon ii,32070.0
+arusha mjini,baraa,12500.0
+arusha mjini,daraja ,19488.0
+arusha mjini,elerai,40749.0
+arusha mjini,engutoto,7426.0
+arusha mjini,kaloleni,9592.0
+arusha mjini,kati,3114.0
+arusha mjini,kimandolu,27650.0
+arusha mjini,lemara,19563.0
+arusha mjini,levolos,8838.0
+arusha mjini,moshono,20692.0
+arusha mjini,ngarenaro,12383.0
+arusha mjini,olasiti,36361.0
+arusha mjini,oloirien,18679.0
+arusha mjini,sekei,9212.0
+arusha mjini,sokon i,73324.0
+arusha mjini,sombetini,48270.0
+arusha mjini,terrat,21792.0
+arusha mjini,themi,9459.0
+arusha mjini,unga ltd,17342.0
+babati,arri,14146.0
+babati,ayasanda,6182.0
+babati,babati,16717.0
+babati,bagara,28920.0
+babati,baoy,6564.0
+babati,bashnet,13368.0
+babati,bonga,9604.0
+babati,dabil,16784.0
+babati,dareda,22878.0
+babati,duru,11525.0
+babati,endakiso,9244.0
+babati,gallapo,19577.0
+babati,gidas,7393.0
+babati,kiru,13119.0
+babati,madunga,21094.0
+babati,magara,15334.0
+babati,magugu,32773.0
+babati,maisaka,8831.0
+babati,mamire,9016.0
+babati,mutuka,4910.0
+babati,mwada,16138.0
+babati,nangara,7468.0
+babati,nar,11188.0
+babati,nkaiti,14152.0
+babati,qash,19553.0
+babati,riroda,12177.0
+babati,sigino,10038.0
+babati,singe,6620.0
+babati,ufana,20190.0
+bagamoyo,bwilingu,35146.0
+bagamoyo,dunda,14559.0
+bagamoyo,fukayosi,9128.0
+bagamoyo,kerege,18008.0
+bagamoyo,kibindu,13673.0
+bagamoyo,kimange,8534.0
+bagamoyo,kiromo,7280.0
+bagamoyo,kiwangwa,14585.0
+bagamoyo,lugoba,11424.0
+bagamoyo,magomeni,29230.0
+bagamoyo,mandera,9367.0
+bagamoyo,mbwewe,14508.0
+bagamoyo,miono,17007.0
+bagamoyo,mkange,12024.0
+bagamoyo,msata,13738.0
+bagamoyo,msoga,10144.0
+bagamoyo,pera,12699.0
+bagamoyo,talawanda,9228.0
+bagamoyo,ubenazomozi,15348.0
+bagamoyo,vigwaza,16649.0
+bagamoyo,yombo,8261.0
+bagamoyo,zinga,11186.0
+bahi,babayu,10126.0
+bahi,bahi,18299.0
+bahi,chali,11300.0
+bahi,chibelela,10032.0
+bahi,chikola,13666.0
+bahi,chipanga,9656.0
+bahi,ibihwa,11060.0
+bahi,ibugule,8048.0
+bahi,ilindi,9440.0
+bahi,kigwe,15560.0
+bahi,lamaiti,12268.0
+bahi,makanda,7896.0
+bahi,mpalanga,10224.0
+bahi,mpamantwa,12984.0
+bahi,msisi,11848.0
+bahi,mtitaa,8604.0
+bahi,mundemu,8148.0
+bahi,mwitikira,7234.0
+bahi,nondwa,15368.0
+bahi,zanka,9887.0
+bariadi,bariadi,11250.0
+bariadi,bunamhala,28308.0
+bariadi,dutwa,15793.0
+bariadi,gambosi,15050.0
+bariadi,gilya,16118.0
+bariadi,guduwi,10550.0
+bariadi,ikungulyabashashi,10154.0
+bariadi,isanga,11350.0
+bariadi,kasoli,14445.0
+bariadi,kilalo,9952.0
+bariadi,malambo,10490.0
+bariadi,matongo,26264.0
+bariadi,mhango,11252.0
+bariadi,mwadobana,25782.0
+bariadi,mwaubingi,15778.0
+bariadi,mwaumatondo,25748.0
+bariadi,ngulyati,11461.0
+bariadi,nkindwabiye,13948.0
+bariadi,nkololo,21768.0
+bariadi,nyakabindi,19721.0
+bariadi,nyangokolwa,22551.0
+bariadi,sakwe,25666.0
+bariadi,sapiwi,19356.0
+bariadi,sima,13552.0
+bariadi,somanda,16590.0
+biharamulo,biharamulo mjini,24574.0
+biharamulo,bisibo,14694.0
+biharamulo,kabindi,25310.0
+biharamulo,kalenge,34148.0
+biharamulo,kaniha,19526.0
+biharamulo,lusahunga,37228.0
+biharamulo,nemba,20188.0
+biharamulo,nyabusozi,23988.0
+biharamulo,nyakahura,26119.0
+biharamulo,nyamahanga,10761.0
+biharamulo,nyamigogo,15578.0
+biharamulo,nyantakara,16372.0
+biharamulo,nyarubungo,28428.0
+biharamulo,runazi,14470.0
+biharamulo,ruziba,12092.0
+buhigwe,biharu,8880.0
+buhigwe,buhigwe,15220.0
+buhigwe,janda,28864.0
+buhigwe,kajana,13380.0
+buhigwe,kibande,9852.0
+buhigwe,kilelema,15520.0
+buhigwe,mugera,15700.0
+buhigwe,muhinda,18210.0
+buhigwe,munanila,33784.0
+buhigwe,munyegera,13446.0
+buhigwe,munzeze,18930.0
+buhigwe,muyama,10436.0
+buhigwe,mwayaya,20420.0
+buhigwe,nyamugali,10703.0
+buhigwe,rusaba,20990.0
+bukoba,bakoba,17471.0
+bukoba,bilele,5406.0
+bukoba,buhembe,4042.0
+bukoba,buhendangabo,7724.0
+bukoba,bujugo,7139.0
+bukoba,butelankuzi,9864.0
+bukoba,butulage,10048.0
+bukoba,hamugembe,12906.0
+bukoba,ibwera,9455.0
+bukoba,ijuganyondo,2591.0
+bukoba,izimbya,10052.0
+bukoba,kaagya,11414.0
+bukoba,kagondo,4169.0
+bukoba,kahororo,6617.0
+bukoba,kaibanja,13904.0
+bukoba,kanyangereko,10166.0
+bukoba,karabagaine,15304.0
+bukoba,kashai,30788.0
+bukoba,kasharu,7763.0
+bukoba,katerero,5884.0
+bukoba,katoma,6762.0
+bukoba,katoro,13648.0
+bukoba,kemondo,15898.0
+bukoba,kibeta,8089.0
+bukoba,kibirizi,7806.0
+bukoba,kikomero,6164.0
+bukoba,kishanje,8382.0
+bukoba,kishogo,9248.0
+bukoba,kitendaguro,5672.0
+bukoba,kyamulaile,13480.0
+bukoba,maruku,9202.0
+bukoba,miembeni,6543.0
+bukoba,mikoni,8004.0
+bukoba,mugajwale,10378.0
+bukoba,nshambya,9021.0
+bukoba,nyakato,14414.0
+bukoba,nyakibimbili,8341.0
+bukoba,nyanga,3129.0
+bukoba,rubafu,8441.0
+bukoba,rubale,8900.0
+bukoba,ruhunga,10158.0
+bukoba,rukoma,11744.0
+bukoba,rwamishenye,12349.0
+bukombe,bugelenga,8464.0
+bukombe,bukombe,10437.0
+bukombe,busonzo,10295.0
+bukombe,butinzya,18106.0
+bukombe,igulwa,44604.0
+bukombe,iyogelo,7910.0
+bukombe,lyambamgongo,7582.0
+bukombe,namonge,30644.0
+bukombe,nganzo,22438.0
+bukombe,runzewe magharibi,11990.0
+bukombe,runzewe mashariki,16096.0
+bukombe,ushirombo,6039.0
+bukombe,uyovu,29912.0
+bunda,balili,15524.0
+bunda,bunda mjini,17280.0
+bunda,bunda stoo,12630.0
+bunda,butimba,8508.0
+bunda,chitengule,12912.0
+bunda,guta,15678.0
+bunda,hunyari,14568.0
+bunda,igundu,12507.0
+bunda,iramba,10714.0
+bunda,kabasa,13233.0
+bunda,kasuguti,7084.0
+bunda,ketare,8843.0
+bunda,kibara,8412.0
+bunda,kisorya,10182.0
+bunda,kunzugu,11248.0
+bunda,mcharo,10116.0
+bunda,mihingo,13165.0
+bunda,mugeta,14365.0
+bunda,namhula,13152.0
+bunda,nampindi,9638.0
+bunda,nansimo,12716.0
+bunda,neruma,15787.0
+bunda,nyamanguta,10150.0
+bunda,nyamuswa,9325.0
+bunda,nyasura,17568.0
+bunda,salama,9073.0
+bunda,sazira,10802.0
+bunda,wariku,9900.0
+busega,badugu,13573.0
+busega,igalukilo,12424.0
+busega,kabita,22766.0
+busega,kalemela,10929.0
+busega,kiloleli,19394.0
+busega,lamadi,22058.0
+busega,lutubiga,11719.0
+busega,malili,17084.0
+busega,mkula,16816.0
+busega,mwamanyili,15221.0
+busega,ngasamo,18938.0
+busega,nyaluhande,9689.0
+busega,shigala,12976.0
+butiama,bisumwa,10074.0
+butiama,buhemba,9326.0
+butiama,bukabwa,11004.0
+butiama,buruma,16479.0
+butiama,busegwe,5320.0
+butiama,buswahili,11577.0
+butiama,butiama,19222.0
+butiama,butuguri,9008.0
+butiama,bwiregi,10275.0
+butiama,etaro,10491.0
+butiama,kukirango,24502.0
+butiama,kyanyari,16676.0
+butiama,masaba,13146.0
+butiama,mirwa,13724.0
+butiama,muriaza,10204.0
+butiama,nyakatende,19341.0
+butiama,nyamimange,5202.0
+butiama,nyankanga,9736.0
+butiama,nyegina,8220.0
+butiama,sirorisimba,8220.0
+chakechake,chachani,974.0
+chakechake,chanjaani,3311.0
+chakechake,chonga,3319.0
+chakechake,dodo,4269.0
+chakechake,kibokoni,2584.0
+chakechake,kichungwani,2158.0
+chakechake,kilindi,3948.0
+chakechake,kwale,3780.0
+chakechake,madungu,4251.0
+chakechake,matale,3912.0
+chakechake,mbuzini,2919.0
+chakechake,mfikiwa,2036.0
+chakechake,mgelema,1250.0
+chakechake,mgogoni,2598.0
+chakechake,michungwani,2457.0
+chakechake,mkoroshoni,3473.0
+chakechake,msingini,2305.0
+chakechake,mvumoni,2463.0
+chakechake,ndagoni,3905.0
+chakechake,ngambwa,6133.0
+chakechake,pujini,4066.0
+chakechake,shungi,2488.0
+chakechake,tibirinzi,4041.0
+chakechake,uwandani,2631.0
+chakechake,vitongoji,4518.0
+chakechake,wara,3930.0
+chakechake,wawi,5616.0
+chakechake,wesha,3893.0
+chakechake,ziwani,4024.0
+chamwino,buigiri,16828.0
+chamwino,chiboli,4680.0
+chamwino,chilonwa,7906.0
+chamwino,chinugulu,5216.0
+chamwino,dabalo,16116.0
+chamwino,fufu,3469.0
+chamwino,handali,9854.0
+chamwino,haneti,13128.0
+chamwino,huzi,7586.0
+chamwino,idifu,9610.0
+chamwino,igandu,14877.0
+chamwino,ikowa,6324.0
+chamwino,iringa mvumi zamani,11311.0
+chamwino,itiso,12636.0
+chamwino,loje,5134.0
+chamwino,majeleko,6888.0
+chamwino,makangwa,20336.0
+chamwino,manchali,10486.0
+chamwino,manda,9874.0
+chamwino,manzase,11488.0
+chamwino,membe,8726.0
+chamwino,mlowa bwawani,9030.0
+chamwino,mpwayungu,12640.0
+chamwino,msamalo,14144.0
+chamwino,msanga,9666.0
+chamwino,muungano,10744.0
+chamwino,mvumi makulu,7460.0
+chamwino,mvumi mission,16512.0
+chamwino,nghambaku,7340.0
+chamwino,nhinhi,7200.0
+chamwino,segala,12790.0
+chamwino,zajilwa,10556.0
+chato,bukome,16930.0
+chato,buseresere,29055.0
+chato,butengorumasa,14037.0
+chato,buziku,15760.0
+chato,bwanga,36756.0
+chato,bwera,9698.0
+chato,bwina,8422.0
+chato,bwongera,11396.0
+chato,chato,17510.0
+chato,ichwankima,7307.0
+chato,ilemela,9098.0
+chato,ilyamchele,5966.0
+chato,iparamasa,30376.0
+chato,kachwamba,6996.0
+chato,kasenga,16864.0
+chato,katende,4139.0
+chato,kigongo,23718.0
+chato,makurugusi,28771.0
+chato,muganza,27244.0
+chato,muungano,12816.0
+chato,nyamirembe,15642.0
+chato,nyarutembo,16624.0
+chemba,chandama,18700.0
+chemba,chemba,16048.0
+chemba,churuku,9260.0
+chemba,dalai,15079.0
+chemba,farkwa,9991.0
+chemba,goima,12261.0
+chemba,gwandi,7971.0
+chemba,jangalo,17758.0
+chemba,kimaha,10598.0
+chemba,kwamtoro,9785.0
+chemba,lalta,11831.0
+chemba,makorongo,15162.0
+chemba,mondo,9492.0
+chemba,mpendo,6998.0
+chemba,mrijo,13105.0
+chemba,msaada,6349.0
+chemba,ovada,11648.0
+chemba,paranga,12298.0
+chemba,sanzawa,10614.0
+chemba,songoro,10750.0
+chunya,chalangwa,8011.0
+chunya,chokaa,15220.0
+chunya,galula,8438.0
+chunya,gua,6534.0
+chunya,ifumbo,6542.0
+chunya,ifwenkenya,7876.0
+chunya,itewe,8339.0
+chunya,kambikatoto,7092.0
+chunya,kanga,9428.0
+chunya,kapalala,8090.0
+chunya,lupatingatinga,12835.0
+chunya,luwalaje,4304.0
+chunya,mafyeko,9408.0
+chunya,magamba,10490.0
+chunya,makongolosi,18114.0
+chunya,mamba,15460.0
+chunya,matundasi,9477.0
+chunya,matwiga,8938.0
+chunya,mbangala,5620.0
+chunya,mbugani,8735.0
+chunya,mbuyuni,17320.0
+chunya,mkola,5813.0
+chunya,mkwajuni,15294.0
+chunya,mtanila,8712.0
+chunya,mwambani,8911.0
+chunya,namkukwe,14322.0
+chunya,ngwala,3016.0
+chunya,sangambi,9768.0
+chunya,saza,6710.0
+chunya,totowe,11644.0
+dodoma mjini,chahwa,4365.0
+dodoma mjini,chamwino,19176.0
+dodoma mjini,changombe,25420.0
+dodoma mjini,chigongwe,7280.0
+dodoma mjini,chihanga,11004.0
+dodoma mjini,dodoma makulu,17100.0
+dodoma mjini,hazina,9541.0
+dodoma mjini,hombolo,22456.0
+dodoma mjini,ipagala,18150.0
+dodoma mjini,ipala,6024.0
+dodoma mjini,iyumbu,2700.0
+dodoma mjini,kikombo,8342.0
+dodoma mjini,kikuyukaskazini,9855.0
+dodoma mjini,kikuyukusini,5973.0
+dodoma mjini,kilimani,6472.0
+dodoma mjini,kiwanjandege,10128.0
+dodoma mjini,kizota,34454.0
+dodoma mjini,madukani,2421.0
+dodoma mjini,majengo,5213.0
+dodoma mjini,makole,10502.0
+dodoma mjini,makutupora,14428.0
+dodoma mjini,mbabala,11898.0
+dodoma mjini,mbalawala,8830.0
+dodoma mjini,miyuji,14966.0
+dodoma mjini,mkonze,12518.0
+dodoma mjini,mnadani,14372.0
+dodoma mjini,mpunguzi,17896.0
+dodoma mjini,msalato,6720.0
+dodoma mjini,mtumba,17276.0
+dodoma mjini,nala,5566.0
+dodoma mjini,nghonghonha,9536.0
+dodoma mjini,ntyuka,4560.0
+dodoma mjini,nzuguni,15459.0
+dodoma mjini,tambukareli,6583.0
+dodoma mjini,uhuru,2419.0
+dodoma mjini,viwandani,4883.0
+dodoma mjini,zuzu,6484.0
+gairo,chagongwe,11302.0
+gairo,chakwale,22598.0
+gairo,chanjale,10106.0
+gairo,gairo,33202.0
+gairo,idibo,17840.0
+gairo,iyogwe,23285.0
+gairo,kibedya,19361.0
+gairo,mandege,8382.0
+gairo,msingisi,15486.0
+gairo,nongwe,9165.0
+gairo,rubeho,22262.0
+geita,bugalama,14210.0
+geita,bugulula,21582.0
+geita,bujula,9225.0
+geita,bukoli,16345.0
+geita,bukondo,13371.0
+geita,bulela,15268.0
+geita,bungwangoko,8584.0
+geita,busanda,12049.0
+geita,butobela,11810.0
+geita,chigunga,27456.0
+geita,ihanamilo,9710.0
+geita,isulwabutundwe,11621.0
+geita,kagu,24918.0
+geita,kakubilo,23252.0
+geita,kalangalala,99795.0
+geita,kamena,21698.0
+geita,kamhanga,16729.0
+geita,kasamwa,24456.0
+geita,kaseme,28388.0
+geita,katoma,19634.0
+geita,katoro,70328.0
+geita,lubanga,11983.0
+geita,lwamgasa,29152.0
+geita,lwezera,24132.0
+geita,mtakuja,25228.0
+geita,nkome,32726.0
+geita,nyachiluluma,19896.0
+geita,nyakagomba,19204.0
+geita,nyakamwaga,19616.0
+geita,nyamalimbe,15761.0
+geita,nyamigota,16516.0
+geita,nyanguku,9660.0
+geita,nyarugusu,40586.0
+geita,nzera,20320.0
+geita,senga,22402.0
+hai,hai mjini,34088.0
+hai,kia,10475.0
+hai,machame kaskazini,23334.0
+hai,machame kusini,13569.0
+hai,machame magharibi,6504.0
+hai,machame mashariki,13086.0
+hai,machame narumu,12076.0
+hai,machame uroki,10760.0
+hai,machame weruweru,12400.0
+hai,masama kati,11564.0
+hai,masama kusini,12062.0
+hai,masama magharibi,10849.0
+hai,masama mashariki,25721.0
+hai,masama rundugai,14032.0
+hanang,balangidalalu,14476.0
+hanang,bassodesh,16764.0
+hanang,bassotu,24534.0
+hanang,dirma,8540.0
+hanang,endasak,10056.0
+hanang,endasiwold,6562.0
+hanang,ganana,7543.0
+hanang,gehandu,15224.0
+hanang,gendabi,10968.0
+hanang,getanuwas,12150.0
+hanang,gidahababieg,5366.0
+hanang,gisambalang,10938.0
+hanang,gitting,13368.0
+hanang,hidet,6528.0
+hanang,hirbadaw,7904.0
+hanang,katesh,8775.0
+hanang,laghanga,11872.0
+hanang,lalaji,9702.0
+hanang,masakta,7320.0
+hanang,masqaroda,7253.0
+hanang,measkron,13146.0
+hanang,mogitu,21548.0
+hanang,nangwa,13166.0
+hanang,simbay,6741.0
+hanang,sirop,5564.0
+handeni,chanika,10995.0
+handeni,kabuku,12224.0
+handeni,kabuku ndani,15548.0
+handeni,kangata,9100.0
+handeni,kideleko,5414.0
+handeni,kiva,9973.0
+handeni,komkonga,16259.0
+handeni,konje,3057.0
+handeni,kwachaga,10439.0
+handeni,kwaluguru,11348.0
+handeni,kwamagome,9188.0
+handeni,kwamatuku,11222.0
+handeni,kwamgwe,7970.0
+handeni,kwamsisi,11349.0
+handeni,kwankonje,10667.0
+handeni,kwasunga,8257.0
+handeni,kwediyamba,4152.0
+handeni,kwedizinga,6319.0
+handeni,kwenjugo,7115.0
+handeni,mabanda,5860.0
+handeni,malezi,8078.0
+handeni,mazingara,15850.0
+handeni,mdoe,9542.0
+handeni,mgambo,11317.0
+handeni,misima,13363.0
+handeni,mkata,31875.0
+handeni,mlimani,5252.0
+handeni,msasa,4328.0
+handeni,ndolwa,23323.0
+handeni,segera,23448.0
+handeni,sindeni,16788.0
+handeni,vibaoni,6078.0
+igunga,bukoko,15985.0
+igunga,chabutwa,6264.0
+igunga,choma,17322.0
+igunga,igoweko,27316.0
+igunga,igunga,51178.0
+igunga,igurubi,11664.0
+igunga,isakamaliwa,8861.0
+igunga,itumba,20468.0
+igunga,itunduru,11634.0
+igunga,kiningila,10880.0
+igunga,kinungu,11565.0
+igunga,mbutu,17464.0
+igunga,mwamashiga,10042.0
+igunga,mwamashimba,14732.0
+igunga,mwashiku,16230.0
+igunga,mwisi,10873.0
+igunga,nanga,14836.0
+igunga,ndembezi,12725.0
+igunga,ngulu,8470.0
+igunga,nguvumoja,11588.0
+igunga,nkinga,21602.0
+igunga,ntobo,9714.0
+igunga,nyandekwa,9552.0
+igunga,simbo,14806.0
+igunga,sungwizi,15067.0
+igunga,ziba,18894.0
+ikungi,dungunyi,10158.0
+ikungi,ighombwe,13344.0
+ikungi,iglansoni,11256.0
+ikungi,ihanja,8270.0
+ikungi,ikungi,12660.0
+ikungi,irisya,6021.0
+ikungi,iseke,6933.0
+ikungi,issuna,12162.0
+ikungi,iyumbu,9378.0
+ikungi,kikio,7888.0
+ikungi,kituntu,8444.0
+ikungi,lighwa,7245.0
+ikungi,mangonyi,14961.0
+ikungi,mgungira,6547.0
+ikungi,minyughe,18444.0
+ikungi,misughaa,6680.0
+ikungi,mkiwa,5151.0
+ikungi,mtunduru,17058.0
+ikungi,muhintiri,8894.0
+ikungi,mungaa,18274.0
+ikungi,mwaru,11785.0
+ikungi,ntuntu,11360.0
+ikungi,puma,9946.0
+ikungi,sepuka,12442.0
+ikungi,siuyu,7951.0
+ikungi,unyahati,9709.0
+ilala,buguruni,70600.0
+ilala,chanika,43911.0
+ilala,gerezani,7276.0
+ilala,gongo la mboto,57310.0
+ilala,ilala,31086.0
+ilala,jangwani,17644.0
+ilala,kariakoo,13780.0
+ilala,kimanga,78550.0
+ilala,kinyerezi,38368.0
+ilala,kipawa,74180.0
+ilala,kisutu,8308.0
+ilala,kitunda,57140.0
+ilala,kivukoni,6744.0
+ilala,kivule,72030.0
+ilala,kiwalani,82286.0
+ilala,majohe,81628.0
+ilala,mchafukoge,10688.0
+ilala,mchikichini,25510.0
+ilala,msongola,24468.0
+ilala,pugu,49430.0
+ilala,segerea,83290.0
+ilala,tabata,74730.0
+ilala,ukonga,80020.0
+ilala,upanga magharibi,13474.0
+ilala,upanga mashariki,11166.0
+ilala,vingunguti,106930.0
+ileje,bupigu,6145.0
+ileje,chitete,8674.0
+ileje,ibaba,8058.0
+ileje,ikinga,7823.0
+ileje,isongole,9893.0
+ileje,itale,7609.0
+ileje,itumba,10189.0
+ileje,kafule,7450.0
+ileje,kalembo,3573.0
+ileje,lubanda,8583.0
+ileje,luswisi,4632.0
+ileje,malangali,6485.0
+ileje,mbebe,9281.0
+ileje,mlale,4896.0
+ileje,ndola,6820.0
+ileje,ngulilo,4659.0
+ileje,ngulugulu,4927.0
+ileje,sange,4757.0
+ilemela,bugogwa,37317.0
+ilemela,buswelu,22898.0
+ilemela,ilemela,43240.0
+ilemela,kirumba,28098.0
+ilemela,kitangiri,20804.0
+ilemela,nyakato,82354.0
+ilemela,nyamanoro,51452.0
+ilemela,pasiansi,35730.0
+ilemela,sangabuye,21116.0
+iramba,kaselya,9800.0
+iramba,kidaru,9726.0
+iramba,kinampanda,14870.0
+iramba,kiomboi,25380.0
+iramba,kisiriri,10687.0
+iramba,kyengege,7845.0
+iramba,mbelekese,12676.0
+iramba,mgongo,13042.0
+iramba,mtekente,16972.0
+iramba,mtoa,19722.0
+iramba,ndago,14452.0
+iramba,ndulungu,10382.0
+iramba,ntwike,16976.0
+iramba,shelui,14930.0
+iramba,tulya,8264.0
+iramba,ulemo,17176.0
+iramba,urughu,13380.0
+iringa,gangilonga,9600.0
+iringa,idodi,10201.0
+iringa,ifunda,12201.0
+iringa,ilala,4447.0
+iringa,ilolo mpya,6376.0
+iringa,isakalilo,9188.0
+iringa,itunundu,14420.0
+iringa,izazi,5281.0
+iringa,kalenga,6963.0
+iringa,kihesa,18196.0
+iringa,kihorogota,7688.0
+iringa,kitanzini,3617.0
+iringa,kitwiru,11464.0
+iringa,kiwere,9777.0
+iringa,kwakilosa,7948.0
+iringa,luhota,14020.0
+iringa,lumuli,7851.0
+iringa,lyamgungwe,9834.0
+iringa,maboga,12642.0
+iringa,maguliwa,13642.0
+iringa,mahuninga,4332.0
+iringa,makorongoni,7790.0
+iringa,malenga makali,7917.0
+iringa,mgama,12560.0
+iringa,migoli,10937.0
+iringa,mivinjeni,4779.0
+iringa,mkwawa,9673.0
+iringa,mlandege,4639.0
+iringa,mlenge,9460.0
+iringa,mlowa,9486.0
+iringa,mseke,15870.0
+iringa,mshindo,1892.0
+iringa,mtwivila,21017.0
+iringa,mwangata,13486.0
+iringa,nduli,14672.0
+iringa,nyangoro,9809.0
+iringa,nzihi,14873.0
+iringa,ruaha,16984.0
+iringa,ulanda,9258.0
+iringa,wasa,10594.0
+itilima,budalabujiga,11250.0
+itilima,bumera,13863.0
+itilima,chinamili,15394.0
+itilima,ikindilo,13036.0
+itilima,kinangweli,12317.0
+itilima,lagangabilili,12908.0
+itilima,lugulu,18330.0
+itilima,mbita,12620.0
+itilima,mhunze,11839.0
+itilima,migato,20658.0
+itilima,mwalushu,13758.0
+itilima,mwamapalala,16088.0
+itilima,mwamtani,10650.0
+itilima,mwaswale,14410.0
+itilima,ndolelezi,13640.0
+itilima,nhobora,13100.0
+itilima,nkoma,21450.0
+itilima,nkuyu,11340.0
+itilima,nyamalapa,13604.0
+itilima,sagata,18650.0
+itilima,sawida,10263.0
+itilima,zagayu,14740.0
+kahama,bugarama,18271.0
+kahama,bukomela,6492.0
+kahama,bulige,10504.0
+kahama,bulungwa,24642.0
+kahama,bulyanhulu,25330.0
+kahama,busangi,11508.0
+kahama,busoka,5323.0
+kahama,chambo,14516.0
+kahama,chela,20761.0
+kahama,chona,18482.0
+kahama,idahina,23934.0
+kahama,igunda,6598.0
+kahama,igwamanoni,14900.0
+kahama,isagehe,10827.0
+kahama,isaka,21689.0
+kahama,iyenze,7621.0
+kahama,jana,16099.0
+kahama,kagongwa,21444.0
+kahama,kahama mjini,6623.0
+kahama,kashishi,13410.0
+kahama,kilago,11116.0
+kahama,kinaga,14842.0
+kahama,kinamapula,12696.0
+kahama,kisuke,10466.0
+kahama,lunguya,19307.0
+kahama,majengo,15920.0
+kahama,malunga,10220.0
+kahama,mapamba,6273.0
+kahama,mega,9967.0
+kahama,mhongolo,15430.0
+kahama,mhungula,10486.0
+kahama,mondo,11479.0
+kahama,mpunze,9342.0
+kahama,mwalugulu,18058.0
+kahama,mwanase,14898.0
+kahama,mwendakulima,13712.0
+kahama,ngaya,12679.0
+kahama,ngogwa,8204.0
+kahama,ntobo,10091.0
+kahama,nyahanga,15790.0
+kahama,nyandekwa,11391.0
+kahama,nyankende,14513.0
+kahama,nyasubi,20180.0
+kahama,nyihogo,13624.0
+kahama,sabasabini,11563.0
+kahama,segese,18360.0
+kahama,shilela,9793.0
+kahama,ubagwe,16578.0
+kahama,ukune,11717.0
+kahama,ulewe,18309.0
+kahama,ulowa,19228.0
+kahama,ushetu,17537.0
+kahama,uyogo,15289.0
+kahama,wendele,7535.0
+kahama,zongomera,10438.0
+kakonko,gwanumpu,14750.0
+kakonko,kakonko,21828.0
+kakonko,kasanda,18714.0
+kakonko,kasuga,16550.0
+kakonko,katanga,10668.0
+kakonko,kiziguzigu,12898.0
+kakonko,mugunzu,11922.0
+kakonko,muhange,24196.0
+kakonko,nyabibuye,10048.0
+kakonko,nyamtukuza,15106.0
+kakonko,rugenge,10870.0
+kalambo,kasanga,18533.0
+kalambo,katazi,16089.0
+kalambo,katete,8669.0
+kalambo,kilesha,7895.0
+kalambo,kisumba,17291.0
+kalambo,mambwekenya,10485.0
+kalambo,matai,16335.0
+kalambo,mkali,11846.0
+kalambo,mkowe,12455.0
+kalambo,mnamba,9945.0
+kalambo,msanzi,16507.0
+kalambo,mwazye,8884.0
+kalambo,mwembenkoswe,26571.0
+kalambo,mwimbi,10232.0
+kalambo,sopa,13230.0
+kalambo,ulumi,11779.0
+kaliua,ichemba,17754.0
+kaliua,igagala,23842.0
+kaliua,igombe mkulu,17312.0
+kaliua,igwisi,30044.0
+kaliua,kaliua,17063.0
+kaliua,kamsekwa,11246.0
+kaliua,kanindo,22562.0
+kaliua,kanoge,4505.0
+kaliua,kashishi,16806.0
+kaliua,kazaroho,14501.0
+kaliua,milambo,25936.0
+kaliua,mwongozo,9430.0
+kaliua,sasu,32034.0
+kaliua,seleli,13646.0
+kaliua,silambo,17306.0
+kaliua,ugunga,13553.0
+kaliua,ukumbisiganga,8839.0
+kaliua,ushokola,14948.0
+kaliua,usinge,42322.0
+kaliua,uyowa,16474.0
+kaliua,zugimlole,23242.0
+karagwe,bugene,15864.0
+karagwe,bweranyange,18628.0
+karagwe,chanika,17627.0
+karagwe,chonyonyo,7918.0
+karagwe,igurwa,10524.0
+karagwe,ihanda,14584.0
+karagwe,ihembe,8846.0
+karagwe,kanoni,17128.0
+karagwe,kayanga,18968.0
+karagwe,kibondo,12620.0
+karagwe,kihanga,18198.0
+karagwe,kiruruma,34940.0
+karagwe,kituntu,12970.0
+karagwe,ndama,11892.0
+karagwe,nyabiyonza,10749.0
+karagwe,nyaishozi,12781.0
+karagwe,nyakabanga,16532.0
+karagwe,nyakahanga,20277.0
+karagwe,nyakakika,16604.0
+karagwe,nyakasimbi,12804.0
+karagwe,rugera,7388.0
+karagwe,rugu,14161.0
+karatu,baray,23556.0
+karatu,buger,9918.0
+karatu,daa,9867.0
+karatu,endabash,14358.0
+karatu,endamaghang,16266.0
+karatu,endamarariek,24992.0
+karatu,ganako,15474.0
+karatu,kansay,14201.0
+karatu,karatu,26612.0
+karatu,mangola,6088.0
+karatu,mbulumbulu,21764.0
+karatu,oldean,6870.0
+karatu,qurus,15922.0
+karatu,rhotia,24270.0
+kaskazini a,bandamaji,1616.0
+kaskazini a,bwereu,1616.0
+kaskazini a,chaani kubwa,3030.0
+kaskazini a,chaani masingini,4562.0
+kaskazini a,chutama,1638.0
+kaskazini a,fukuchani,2208.0
+kaskazini a,gamba,3401.0
+kaskazini a,kandwi,1741.0
+kaskazini a,kibeni,2799.0
+kaskazini a,kidombo,3147.0
+kaskazini a,kidoti,2973.0
+kaskazini a,kigomani,1983.0
+kaskazini a,kigunda,1813.0
+kaskazini a,kijini,3369.0
+kaskazini a,kikobweni,2757.0
+kaskazini a,kilimani,2590.0
+kaskazini a,kilindi,1186.0
+kaskazini a,kinyasini,3311.0
+kaskazini a,kisongoni,1539.0
+kaskazini a,kivunge,4199.0
+kaskazini a,matemwe,5014.0
+kaskazini a,mchenza shauri,917.0
+kaskazini a,mkokotoni,2803.0
+kaskazini a,mkwajuni,3509.0
+kaskazini a,moga,2089.0
+kaskazini a,mto wa pwani,1074.0
+kaskazini a,muwange,2022.0
+kaskazini a,nungwi,10392.0
+kaskazini a,pale,1216.0
+kaskazini a,pitanazako,4027.0
+kaskazini a,potoa,2326.0
+kaskazini a,pwani mchangani,3441.0
+kaskazini a,tazari,3084.0
+kaskazini a,tumbatu gomani,4990.0
+kaskazini a,tumbatu jongowe,3262.0
+kaskazini a,uvivini,4136.0
+kaskazini b,donge karange,1826.0
+kaskazini b,donge kipange,1070.0
+kaskazini b,donge mbiji,2447.0
+kaskazini b,donge mchangani,2917.0
+kaskazini b,donge mtambile,2739.0
+kaskazini b,donge vijibweni,3760.0
+kaskazini b,fujoni,3147.0
+kaskazini b,kidanzini,2642.0
+kaskazini b,kilombero,1934.0
+kaskazini b,kinduni,2616.0
+kaskazini b,kiombamvua,1938.0
+kaskazini b,kitope,5582.0
+kaskazini b,kiwengwa,3575.0
+kaskazini b,mafufuni,3832.0
+kaskazini b,mahonda,4322.0
+kaskazini b,makoba,3477.0
+kaskazini b,mangapwani,2246.0
+kaskazini b,matetema,2600.0
+kaskazini b,mbaleni,2811.0
+kaskazini b,mgambo,2799.0
+kaskazini b,misufini,7986.0
+kaskazini b,mkadini,2449.0
+kaskazini b,mkataleni,4869.0
+kaskazini b,mnyimbi,1266.0
+kaskazini b,muwanda,950.0
+kaskazini b,njia ya mtoni,1548.0
+kaskazini b,pangeni,1604.0
+kaskazini b,upenja,1978.0
+kaskazini b,zingwezingwe,745.0
+kasulu,asantenyerere,7222.0
+kasulu,bugaga,14400.0
+kasulu,buhoro,60118.0
+kasulu,herushingo,18218.0
+kasulu,kagerankanda,13864.0
+kasulu,kasulu mjini,67712.0
+kasulu,kigembe,13270.0
+kasulu,kigondo,16490.0
+kasulu,kitagata,105204.0
+kasulu,kitanga,20930.0
+kasulu,kurugongo,21819.0
+kasulu,kwaga,19180.0
+kasulu,msambara,22390.0
+kasulu,muganza,17930.0
+kasulu,muhunga,32830.0
+kasulu,murufiti,9496.0
+kasulu,muzye,12560.0
+kasulu,nyachenda,14304.0
+kasulu,nyakitonto,19480.0
+kasulu,nyamidaho,18204.0
+kasulu,nyamnyusi,16514.0
+kasulu,nyansha,13400.0
+kasulu,nyumbigwa,11640.0
+kasulu,ruhita,16346.0
+kasulu,rungwe mpya,15214.0
+kasulu,rusesa,19398.0
+kasulu,shunguliba,4461.0
+kasulu,titye,11438.0
+kati,bambi,3028.0
+kati,binguni,1378.0
+kati,bungi,2518.0
+kati,charawe,954.0
+kati,cheju,2038.0
+kati,chwaka,3196.0
+kati,dunga bweni,2808.0
+kati,dunga kiembeni,1938.0
+kati,ghana,1869.0
+kati,jendele,1939.0
+kati,jumbi,3905.0
+kati,kiboje mkwajuni,1268.0
+kati,kiboje mwembeshauri,1467.0
+kati,kidimni,4184.0
+kati,kikungwi,972.0
+kati,koani,3091.0
+kati,machui,1462.0
+kati,marumbi,1167.0
+kati,mchangani,2066.0
+kati,mgeni haji,1204.0
+kati,michamvi,1572.0
+kati,mitakawani,1113.0
+kati,miwani,2310.0
+kati,mpapa,1746.0
+kati,ndijani mseweni,2951.0
+kati,ndijani mwembepunda,1486.0
+kati,ngambwa,901.0
+kati,pagali,720.0
+kati,pongwe,800.0
+kati,tindini,1160.0
+kati,tunduni,1054.0
+kati,tunguu,3562.0
+kati,ubago,3936.0
+kati,ukongoroni,896.0
+kati,umbuji,1402.0
+kati,unguja ukuu kaebona,1362.0
+kati,unguja ukuu kaepwani,1563.0
+kati,uroa,2613.0
+kati,uzi,1801.0
+kati,uzini,944.0
+kibaha,bokomnemela,3405.0
+kibaha,dutumi,1812.0
+kibaha,gwata,5281.0
+kibaha,janga,10925.0
+kibaha,kibaha,11829.0
+kibaha,kikongo,4238.0
+kibaha,kilangalanga,10589.0
+kibaha,kongowe,18500.0
+kibaha,kwala,3472.0
+kibaha,magindu,4991.0
+kibaha,maili moja,21603.0
+kibaha,mbwawa,4008.0
+kibaha,misugusugu,6137.0
+kibaha,mkuza,15134.0
+kibaha,mlandizi,17317.0
+kibaha,msangani,5904.0
+kibaha,pangani,6828.0
+kibaha,picha ya ndege,17994.0
+kibaha,ruvu,3466.0
+kibaha,soga,4713.0
+kibaha,tumbi,11650.0
+kibaha,visiga,8903.0
+kibondo,bitare,10500.0
+kibondo,bunyanbo,13564.0
+kibondo,busagara,30726.0
+kibondo,busunzu,23928.0
+kibondo,itaba,18128.0
+kibondo,kibondo,39292.0
+kibondo,kitahana,24432.0
+kibondo,kizazi,17732.0
+kibondo,kumsenga,22638.0
+kibondo,mabamba,17582.0
+kibondo,misezero,8220.0
+kibondo,murungu,7340.0
+kibondo,rugongwe,27248.0
+kigoma,bangwe,15452.0
+kigoma,bitale,20426.0
+kigoma,buhanda,7630.0
+kigoma,businde,2436.0
+kigoma,buzebazeba,18446.0
+kigoma,gungu,25222.0
+kigoma,kagera,9040.0
+kigoma,kagongo,19406.0
+kigoma,kagunga,16972.0
+kigoma,kalinzi,27428.0
+kigoma,kasimbu,4909.0
+kigoma,kasingirima,2867.0
+kigoma,katubuka,24792.0
+kigoma,kibirizi,25146.0
+kigoma,kigoma,6908.0
+kigoma,kipampa,7916.0
+kigoma,kitongoni,6972.0
+kigoma,machinjioni,3465.0
+kigoma,mahembe,22764.0
+kigoma,majengo,4329.0
+kigoma,matendo,22458.0
+kigoma,mkigo,16260.0
+kigoma,mkongoro,18660.0
+kigoma,mungonya,12644.0
+kigoma,mwamgongo,15660.0
+kigoma,mwandiga,18904.0
+kigoma,mwanga kaskazini,24181.0
+kigoma,mwanga kusini,16335.0
+kigoma,rubuga,2634.0
+kigoma,rusimbi,6780.0
+kilindi,jaila,12318.0
+kilindi,kibirashi,20794.0
+kilindi,kikunde,10466.0
+kilindi,kilindi,11094.0
+kilindi,kilwa,6835.0
+kilindi,kimbe,14249.0
+kilindi,kisangasa,9592.0
+kilindi,kwediboma,17748.0
+kilindi,kwekivu,9129.0
+kilindi,lwande,8793.0
+kilindi,mabalanga,6917.0
+kilindi,masagulu,13465.0
+kilindi,mkindi,10772.0
+kilindi,msanja,17233.0
+kilindi,mvungwe,20098.0
+kilindi,negero,10000.0
+kilindi,pagwi,11518.0
+kilindi,saunyi,3231.0
+kilindi,songe,14803.0
+kilindi,tunguli,7773.0
+kilolo,boma la ngombe,11314.0
+kilolo,dabaga,7787.0
+kilolo,ibumu,6681.0
+kilolo,idete,8057.0
+kilolo,ihimbo,10214.0
+kilolo,ilula,11108.0
+kilolo,image,9178.0
+kilolo,irole,12146.0
+kilolo,kimala,7649.0
+kilolo,lugalo,12361.0
+kilolo,mahenge,10040.0
+kilolo,masisiwe,10053.0
+kilolo,mlafu,6386.0
+kilolo,mtitu,11329.0
+kilolo,ngangange,4124.0
+kilolo,nguruhe,11012.0
+kilolo,nyalumbu,15307.0
+kilolo,ruaha mbuyuni,12151.0
+kilolo,udekwa,5802.0
+kilolo,uhambingeto,10325.0
+kilolo,ukumbi,12911.0
+kilolo,ukwega,12196.0
+kilombero,chisano,5736.0
+kilombero,chita,22666.0
+kilombero,idete,21648.0
+kilombero,ifakara,55950.0
+kilombero,kibaoni,28878.0
+kilombero,kiberege,22313.0
+kilombero,kidatu,32606.0
+kilombero,kisawasawa,9048.0
+kilombero,lumemo,21601.0
+kilombero,mangula,36184.0
+kilombero,masagati,7122.0
+kilombero,mbingu,22712.0
+kilombero,mchombe,38654.0
+kilombero,mkula,9091.0
+kilombero,mlimba,38112.0
+kilombero,mofu,11725.0
+kilombero,sanje,11041.0
+kilombero,uchindile,2271.0
+kilombero,utengule,10562.0
+kilosa,berega,11197.0
+kilosa,chanzulu,12229.0
+kilosa,dumila,21282.0
+kilosa,kasiki,5458.0
+kilosa,kidete,11329.0
+kilosa,kidodi,9107.0
+kilosa,kilangali,10678.0
+kilosa,kimamba a,6080.0
+kilosa,kimamba b,5970.0
+kilosa,kisanga,14310.0
+kilosa,kitete,10246.0
+kilosa,lumbiji,6892.0
+kilosa,lumuma,13222.0
+kilosa,mabula,7168.0
+kilosa,mabwerebwere,7155.0
+kilosa,madoto,3570.0
+kilosa,magole,20954.0
+kilosa,magomeni,11997.0
+kilosa,magubike,10274.0
+kilosa,maguha,7847.0
+kilosa,malolo,10752.0
+kilosa,mamboya,28711.0
+kilosa,masanze,7890.0
+kilosa,mbumi,4540.0
+kilosa,mikumi,19978.0
+kilosa,mkwatani,12428.0
+kilosa,msowero,29359.0
+kilosa,ruaha,27580.0
+kilosa,rudewa,18352.0
+kilosa,ruhembe,15198.0
+kilosa,tindiga,13290.0
+kilosa,ulaya,17358.0
+kilosa,ulelingombe,4095.0
+kilosa,vidunda,11694.0
+kilosa,zombo,9982.0
+kilwa,chumo,13898.0
+kilwa,kandawale,5040.0
+kilwa,kibata,8731.0
+kilwa,kikole,4294.0
+kilwa,kinjumbi,14425.0
+kilwa,kipatimu,14604.0
+kilwa,kiranjeranje,9754.0
+kilwa,kivinjesingino,19376.0
+kilwa,lihimalyao,10434.0
+kilwa,likawage,3569.0
+kilwa,mandawa,13195.0
+kilwa,masoko,13598.0
+kilwa,miguruwe,3381.0
+kilwa,mingumbi,9948.0
+kilwa,miteja,6159.0
+kilwa,nanjirinji,7491.0
+kilwa,njinjo,14797.0
+kilwa,pande mikoma,11596.0
+kilwa,songosongo,3026.0
+kilwa,tingi,6782.0
+kinondoni,bunju,60240.0
+kinondoni,goba,42674.0
+kinondoni,hananasif,37118.0
+kinondoni,kawe,67110.0
+kinondoni,kibamba,28890.0
+kinondoni,kigogo,57606.0
+kinondoni,kijitonyama,58132.0
+kinondoni,kimara,76578.0
+kinondoni,kinondoni,21236.0
+kinondoni,kunduchi,75028.0
+kinondoni,kwembe,56894.0
+kinondoni,mabibo,85738.0
+kinondoni,mabwepande,25458.0
+kinondoni,magomeni,24397.0
+kinondoni,makongo,43796.0
+kinondoni,makuburi,57400.0
+kinondoni,makumbusho,68100.0
+kinondoni,makurumla,63356.0
+kinondoni,manzese,70510.0
+kinondoni,mbezi,73416.0
+kinondoni,mbezi juu,41350.0
+kinondoni,mburahati,34116.0
+kinondoni,mbweni,13766.0
+kinondoni,mikocheni,32946.0
+kinondoni,msasani,48920.0
+kinondoni,msigani,55116.0
+kinondoni,mwananyamala,50560.0
+kinondoni,mzimuni,21486.0
+kinondoni,ndugumbi,36838.0
+kinondoni,saranga,104130.0
+kinondoni,sinza,40542.0
+kinondoni,tandale,54782.0
+kinondoni,ubungo,56008.0
+kinondoni,wazo,90814.0
+kisarawe,cholesamvula,6062.0
+kisarawe,kibuta,10146.0
+kisarawe,kiluvya,10864.0
+kisarawe,kisarawe,11839.0
+kisarawe,kurui,2995.0
+kisarawe,mafizi,6546.0
+kisarawe,maneromango,7896.0
+kisarawe,marui,3793.0
+kisarawe,marumbo,5682.0
+kisarawe,masaki,7201.0
+kisarawe,msanga,5422.0
+kisarawe,msimbu,11147.0
+kisarawe,mzenga,5458.0
+kisarawe,vihingo,3300.0
+kisarawe,vikumbulu,3248.0
+kishapu,bubiki,20040.0
+kishapu,bunambiyu,12224.0
+kishapu,itilima,12214.0
+kishapu,kiloleli,6058.0
+kishapu,kishapu,19345.0
+kishapu,lagana,10020.0
+kishapu,masanga,14441.0
+kishapu,mondo,15304.0
+kishapu,mwadui lohumbo,22784.0
+kishapu,mwakipoya,10038.0
+kishapu,mwamalasa,13193.0
+kishapu,mwamashele,8811.0
+kishapu,ngofila,10598.0
+kishapu,sekebugoro,16617.0
+kishapu,shagihilu,13126.0
+kishapu,somagedi,7426.0
+kishapu,songwa,19253.0
+kishapu,talaga,9772.0
+kishapu,uchunga,16405.0
+kishapu,ukenyenge,15305.0
+kiteto,bwagamoyo,10750.0
+kiteto,chapakazi,7774.0
+kiteto,dongo,17980.0
+kiteto,dosidosi,7785.0
+kiteto,engusero,24700.0
+kiteto,kibaya,8760.0
+kiteto,kijungu,6164.0
+kiteto,lengatei,12777.0
+kiteto,loolera,6097.0
+kiteto,magungu,8732.0
+kiteto,makame,9752.0
+kiteto,matui,19880.0
+kiteto,namelock,14744.0
+kiteto,ndedo,5102.0
+kiteto,njoro,15410.0
+kiteto,olboloti,16496.0
+kiteto,partimbo,20672.0
+kiteto,songambele,7534.0
+kiteto,sunya,23561.0
+kondoa,bereko,7224.0
+kondoa,bolisa,3644.0
+kondoa,bumbuta,8600.0
+kondoa,busi,18728.0
+kondoa,changaa,9635.0
+kondoa,chemchem,7913.0
+kondoa,haubi,13758.0
+kondoa,hondomairo,8112.0
+kondoa,itaswi,9776.0
+kondoa,itololo,7196.0
+kondoa,kalamba,13988.0
+kondoa,kikilo,6639.0
+kondoa,kikore,13042.0
+kondoa,kilimani,7237.0
+kondoa,kingale,11006.0
+kondoa,kinyasi,8818.0
+kondoa,kisese,12991.0
+kondoa,kolo,5243.0
+kondoa,kondoa mjini,14383.0
+kondoa,kwadelo,11592.0
+kondoa,masange,8068.0
+kondoa,mnenia,11529.0
+kondoa,pahi,13941.0
+kondoa,salanka,8632.0
+kondoa,serya,6055.0
+kondoa,soera,7617.0
+kondoa,suruke,3546.0
+kondoa,thawi,10801.0
+kongwa,chamkoroma,14672.0
+kongwa,chitego,9802.0
+kongwa,chiwe,19478.0
+kongwa,hogoro,17128.0
+kongwa,iduo,11198.0
+kongwa,kibaigwa,24758.0
+kongwa,kongwa,13532.0
+kongwa,lenjulu,14440.0
+kongwa,makawa,8621.0
+kongwa,matongoro,10092.0
+kongwa,mkoka,11924.0
+kongwa,mlali,19614.0
+kongwa,mtanana,12561.0
+kongwa,nghumbi,11508.0
+kongwa,ngomai,10532.0
+kongwa,njoge,10063.0
+kongwa,pandambili,8004.0
+kongwa,sagara,22062.0
+kongwa,sejeli,19097.0
+kongwa,songambele,17710.0
+kongwa,ugogoni,17051.0
+kongwa,zoissa,6106.0
+korogwe,bungu,14233.0
+korogwe,chekelei,8227.0
+korogwe,dindira,12087.0
+korogwe,kerenge,14736.0
+korogwe,kilole,8209.0
+korogwe,kizara,14622.0
+korogwe,kwagunda,8922.0
+korogwe,kwamndolwa,5161.0
+korogwe,kwamsisi,5812.0
+korogwe,kwashemshi,10165.0
+korogwe,lutindi,34200.0
+korogwe,magamba kwalukonge,6313.0
+korogwe,magoma,11395.0
+korogwe,magunga,9520.0
+korogwe,manundu,17500.0
+korogwe,mashewa,11937.0
+korogwe,mazinde,22832.0
+korogwe,mkalamo,8836.0
+korogwe,mkomazi,8068.0
+korogwe,mnyuzi,19169.0
+korogwe,mombo,17096.0
+korogwe,mpale,9006.0
+korogwe,mswaha,13594.0
+korogwe,mtonga,10369.0
+korogwe,ngombezi,5345.0
+korogwe,old korogwe,6394.0
+korogwe,vugiri,9771.0
+kusini,bwejuu,2050.0
+kusini,dongwe,3006.0
+kusini,jambiani kibigija,3369.0
+kusini,jambiani kikadini,2691.0
+kusini,kajengwa,2313.0
+kusini,kibuteni,482.0
+kusini,kijini,2634.0
+kusini,kiongoni,1106.0
+kusini,kitogani,1128.0
+kusini,kizimkazi dimbani,1760.0
+kusini,kizimkazi mkunguni,2617.0
+kusini,mtende,1330.0
+kusini,muungoni,1629.0
+kusini,muyuni   b ,934.0
+kusini,muyuni   c ,811.0
+kusini,muyuni  a,1028.0
+kusini,mzuri,2120.0
+kusini,nganani,2050.0
+kusini,paje,3245.0
+kusini,pete,1420.0
+kusini,tasani,1519.0
+kwimba,bugando,7172.0
+kwimba,bungulwa,10362.0
+kwimba,bupamwa,17364.0
+kwimba,fukalo,17534.0
+kwimba,hungumalwa,16508.0
+kwimba,igongwa,11704.0
+kwimba,ilula,11964.0
+kwimba,iseni,10348.0
+kwimba,kikubiji,22036.0
+kwimba,lyoma,12559.0
+kwimba,maligisu,20784.0
+kwimba,malya,15434.0
+kwimba,mantare,11602.0
+kwimba,mhande,19631.0
+kwimba,mwabomba,10096.0
+kwimba,mwagi,11324.0
+kwimba,mwakilyambiti,16080.0
+kwimba,mwamala,10580.0
+kwimba,mwandu,11133.0
+kwimba,mwanghalanga,11101.0
+kwimba,mwankulwe,9496.0
+kwimba,nghundi,9256.0
+kwimba,ngudu,27629.0
+kwimba,ngulla,12694.0
+kwimba,nkalalo,7266.0
+kwimba,nyambiti,13730.0
+kwimba,nyamilama,7610.0
+kwimba,shilembo,9883.0
+kwimba,sumve,16436.0
+kwimba,walla,17188.0
+kyela,bujonde,7527.0
+kyela,busale,9246.0
+kyela,ikama,4724.0
+kyela,ikimba,10582.0
+kyela,ikolo,5139.0
+kyela,ipande,8081.0
+kyela,ipinda,20845.0
+kyela,itope,6716.0
+kyela,kajunjumele,8240.0
+kyela,katumba songwe,13896.0
+kyela,kyela,47393.0
+kyela,lusungo,6355.0
+kyela,makwale,12654.0
+kyela,matema,17101.0
+kyela,muungano,3278.0
+kyela,mwaya,11651.0
+kyela,ndobo,6683.0
+kyela,ngana,7943.0
+kyela,ngonga,8310.0
+kyela,talatala,5122.0
+kyerwa,bugomora,11144.0
+kyerwa,businde,19230.0
+kyerwa,isingiro,16706.0
+kyerwa,kaisho,12879.0
+kyerwa,kamuli,20076.0
+kyerwa,kibale,15252.0
+kyerwa,kibingo,20572.0
+kyerwa,kikukuru,17338.0
+kyerwa,kimuli,17924.0
+kyerwa,kyerwa,21604.0
+kyerwa,mabira,21532.0
+kyerwa,murongo,15046.0
+kyerwa,nkwenda,22423.0
+kyerwa,nyakatuntu,15168.0
+kyerwa,rukuraijo,24212.0
+kyerwa,rutunguru,9795.0
+kyerwa,rwabwere,20670.0
+kyerwa,songambele,19458.0
+lindi,chikonji,5354.0
+lindi,chiponda,6162.0
+lindi,jamhuri,6571.0
+lindi,kilangala,6498.0
+lindi,kilolambwani,6287.0
+lindi,kitomanga,4720.0
+lindi,kiwalala,13303.0
+lindi,kiwawa,2668.0
+lindi,longa,3186.0
+lindi,majengo,6890.0
+lindi,makonde,1091.0
+lindi,mandwanga,9227.0
+lindi,matimba,4933.0
+lindi,matopeni,3578.0
+lindi,mbanja,3187.0
+lindi,mchinga,6062.0
+lindi,mikumbi,2006.0
+lindi,milola,9618.0
+lindi,mingoyo,11808.0
+lindi,mipingo,5926.0
+lindi,mitandi,2514.0
+lindi,mnara,10128.0
+lindi,mnolela,11844.0
+lindi,msanjihili,6390.0
+lindi,mtama,4398.0
+lindi,mtanda,5683.0
+lindi,mtua,3560.0
+lindi,mtumbya,1859.0
+lindi,mwenge,2807.0
+lindi,nachingwea,3176.0
+lindi,nachunyu,6714.0
+lindi,nahukahuka,5026.0
+lindi,namangwale,5820.0
+lindi,namupa,5768.0
+lindi,nangaru,5281.0
+lindi,navanga,3840.0
+lindi,ndoro,1836.0
+lindi,ngapa,7761.0
+lindi,nyangamara,7546.0
+lindi,nyangao,9837.0
+lindi,nyengedi,5390.0
+lindi,pangatena,4899.0
+lindi,rahaleo,2111.0
+lindi,rasbura,6602.0
+lindi,rutamba,11211.0
+lindi,sudi,5544.0
+lindi,tandangongoro,3549.0
+lindi,wailes,2812.0
+liwale,barikiwa,4816.0
+liwale,kiangara,4309.0
+liwale,kibutuka,3919.0
+liwale,kichonda,3286.0
+liwale,kimambi,754.0
+liwale,likongowele,6482.0
+liwale,lilombe,3728.0
+liwale,liwale b,8152.0
+liwale,liwale mjini,8650.0
+liwale,makata,6245.0
+liwale,mangirirkiti,5362.0
+liwale,mbaya,6041.0
+liwale,mihumo,5348.0
+liwale,mirui,4521.0
+liwale,mkutano,1614.0
+liwale,mlembwe,2971.0
+liwale,mpigamiti,2095.0
+liwale,nangando,6591.0
+liwale,nangano,2849.0
+liwale,ngongowele,3644.0
+longido,elengata dapash,10226.0
+longido,engarenaibor,11610.0
+longido,engikaret,6528.0
+longido,gelai lumbwa,6200.0
+longido,gelai meirugoi,9172.0
+longido,ilorienito,5572.0
+longido,kamwanga,10143.0
+longido,ketumbeine,7230.0
+longido,kimokouwa,7808.0
+longido,longido,2284.0
+longido,matale,4411.0
+longido,mundarara,7300.0
+longido,namanga,9190.0
+longido,olmolog,8766.0
+longido,orbomba,7900.0
+longido,tingatinga,8822.0
+ludewa,ibumi,1812.0
+ludewa,iwela,1193.0
+ludewa,kilondo,2052.0
+ludewa,lifuma,2224.0
+ludewa,luana,4570.0
+ludewa,ludende,5500.0
+ludewa,ludewa,10112.0
+ludewa,lugarawa,8534.0
+ludewa,luilo,3976.0
+ludewa,lumbila,1879.0
+ludewa,lupanga,6439.0
+ludewa,lupingu,4843.0
+ludewa,madilu,9175.0
+ludewa,madope,5442.0
+ludewa,makonde,3952.0
+ludewa,manda,4305.0
+ludewa,masasi,2292.0
+ludewa,mavanga,7648.0
+ludewa,mawengi,9086.0
+ludewa,milo,6861.0
+ludewa,mkongobaki,3529.0
+ludewa,mlangali,12979.0
+ludewa,mundindi,7346.0
+ludewa,nkomangombe,3649.0
+ludewa,ruhuhu,3821.0
+lushoto,baga,8522.0
+lushoto,bumbuli,10159.0
+lushoto,dule b,7971.0
+lushoto,dule m,8833.0
+lushoto,funta,10591.0
+lushoto,gare,12476.0
+lushoto,hemtoye,9124.0
+lushoto,kilole,6460.0
+lushoto,kwai,12830.0
+lushoto,kwekanga,11858.0
+lushoto,kwemashai,5649.0
+lushoto,kwemshasha,8092.0
+lushoto,lukozi,11997.0
+lushoto,lunguza,8278.0
+lushoto,lushoto,28190.0
+lushoto,maheza ngulu,9006.0
+lushoto,makanya,13890.0
+lushoto,malibwi,17684.0
+lushoto,malindi,17978.0
+lushoto,mamba,11358.0
+lushoto,manolo,23128.0
+lushoto,mayo,12217.0
+lushoto,mbaramo,12465.0
+lushoto,mbuzii,6882.0
+lushoto,mgwashi,12773.0
+lushoto,milingano,12466.0
+lushoto,mlalo,8144.0
+lushoto,mlola,9726.0
+lushoto,mnazi,11222.0
+lushoto,mngaro,7147.0
+lushoto,mponde,11233.0
+lushoto,mtae,12850.0
+lushoto,mwangoi,9646.0
+lushoto,ngulwi,6151.0
+lushoto,ngwelo,4648.0
+lushoto,nkongoi,9209.0
+lushoto,rangwi,14936.0
+lushoto,shume,12252.0
+lushoto,soni,12839.0
+lushoto,sunga,20453.0
+lushoto,tamota,8300.0
+lushoto,ubiri,6325.0
+lushoto,usambara,5351.0
+lushoto,vuga,11128.0
+mafia,baleni,5870.0
+mafia,jibondo,3729.0
+mafia,kanga,3758.0
+mafia,kiegeani,4094.0
+mafia,kilindoni,14220.0
+mafia,kirongwe,5699.0
+mafia,miburani,4106.0
+mafia,ndagoni,4958.0
+mafinga,boma,21720.0
+mafinga,kinyanambo,17417.0
+mafinga,sao hill,12766.0
+magharibi,bububu shehia,15660.0
+magharibi,bumbwisudi shehia,2269.0
+magharibi,bweleo shehia,971.0
+magharibi,chuini shehia,6159.0
+magharibi,chukwani shehia,8298.0
+magharibi,dimani shehia,2052.0
+magharibi,dole shehia,3933.0
+magharibi,fumba shehia,981.0
+magharibi,fuoni kibondeni shehia,15399.0
+magharibi,fuoni kijitoupele shehia,19374.0
+magharibi,kama shehia,2921.0
+magharibi,kianga shehia,9907.0
+magharibi,kibweni shehia,7115.0
+magharibi,kiembesamaki shehia,11760.0
+magharibi,kihinani shehia,14140.0
+magharibi,kinuni shehia,11332.0
+magharibi,kisauni shehia,9329.0
+magharibi,kizimbani shehia,3304.0
+magharibi,kombeni shehia,3162.0
+magharibi,magogoni shehia,14927.0
+magharibi,maungani shehia,4048.0
+magharibi,mbuzini shehia,5856.0
+magharibi,meli nne shehia,16981.0
+magharibi,mfenesini shehia,2803.0
+magharibi,mombasa shehia,14492.0
+magharibi,mto pepo shehia,16441.0
+magharibi,mtoni kidatu shehia,16612.0
+magharibi,mtoni shehia,6571.0
+magharibi,mtufaani shehia,9122.0
+magharibi,mwakaje shehia,2907.0
+magharibi,mwanakwerekwe shehia,20214.0
+magharibi,mwanyanya shehia,9684.0
+magharibi,mwera shehia,10238.0
+magharibi,nyamanzi shehia,1287.0
+magharibi,pangawe shehia,26271.0
+magharibi,shakani shehia,2760.0
+magharibi,sharifu msa shehia,4975.0
+magharibi,tomondo shehia,23248.0
+magharibi,welezo shehia,13118.0
+magu,bujashi,12880.0
+magu,bukandwe,10714.0
+magu,jinjimili,10168.0
+magu,kahangara,19374.0
+magu,kisesa,30488.0
+magu,kitongo sima,13540.0
+magu,kongolo,14268.0
+magu,lubugu,14860.0
+magu,lutale,12306.0
+magu,magu mjini,23822.0
+magu,mwamabanza,7378.0
+magu,mwamanga,12844.0
+magu,nghaya,20024.0
+magu,nkungulu,23540.0
+magu,nyanguge,14448.0
+magu,nyigogo,25200.0
+magu,shishani,15300.0
+magu,sukuma,18602.0
+makambako,kitandililo,6844.0
+makambako,lyamkena,9383.0
+makambako,mahongole,9223.0
+makambako,mjimwema,28991.0
+makambako,mlowa,5711.0
+makambako,mwembetogwa,7382.0
+makambako,ubena,17692.0
+makambako,utengule,8597.0
+makete,bulongwa,3823.0
+makete,ikuwo,3649.0
+makete,iniho,3720.0
+makete,ipelele,4891.0
+makete,ipepo,5020.0
+makete,isapulano,3190.0
+makete,itundu,4413.0
+makete,iwawa,10174.0
+makete,kigala,3022.0
+makete,kigulu,918.0
+makete,kipagilo,3912.0
+makete,kitulo,3469.0
+makete,lupalilo,4526.0
+makete,lupila,5004.0
+makete,luwumbu,2239.0
+makete,mangoto,3780.0
+makete,matamba,10442.0
+makete,mbalatse,2953.0
+makete,mfumbi,4717.0
+makete,mlondwe,3937.0
+makete,tandala,5931.0
+makete,ukwama,3529.0
+manyoni,aghondi,5467.0
+manyoni,chikola,12333.0
+manyoni,chikuyu,6488.0
+manyoni,heka,7919.0
+manyoni,idodyandole,11202.0
+manyoni,ipande,10040.0
+manyoni,isseke,12214.0
+manyoni,itigi,5590.0
+manyoni,itigi majengo,16186.0
+manyoni,kintinku,8878.0
+manyoni,kitaraka,9708.0
+manyoni,majiri,11723.0
+manyoni,makanda,9768.0
+manyoni,makuru,11872.0
+manyoni,makutopora,6634.0
+manyoni,manyoni,25500.0
+manyoni,mgandu,13789.0
+manyoni,mitundu,23080.0
+manyoni,mkwese,4726.0
+manyoni,muhalala,3980.0
+manyoni,mvumi,7872.0
+manyoni,mwamagembe,6460.0
+manyoni,nkonko,11282.0
+manyoni,rungwa,2208.0
+manyoni,sanjaranda,8826.0
+manyoni,sanza,10384.0
+manyoni,saranda,9116.0
+manyoni,sasajila,7142.0
+manyoni,sasilo,11984.0
+manyoni,solya,4373.0
+masasi,chigugu,17496.0
+masasi,chikolopola,7220.0
+masasi,chiungutwa,13675.0
+masasi,chiwale,11312.0
+masasi,chiwata,5654.0
+masasi,jida,8236.0
+masasi,lipumburu,7266.0
+masasi,lukuledi,17059.0
+masasi,lulindi,8577.0
+masasi,marika,11175.0
+masasi,mbuyuni,8393.0
+masasi,mchauru,10887.0
+masasi,migongo,4447.0
+masasi,mkomaindo,4031.0
+masasi,mkululu,8105.0
+masasi,mkundi,5510.0
+masasi,mkuti,7805.0
+masasi,mlingula,9095.0
+masasi,mnavira,11672.0
+masasi,mpanyani,7559.0
+masasi,mpindimbi,12863.0
+masasi,mtandi,4771.0
+masasi,mwena,27907.0
+masasi,mwenge,7221.0
+masasi,mwenge mtapika,6356.0
+masasi,namajani,13740.0
+masasi,namalenga,11506.0
+masasi,namatutwe,14123.0
+masasi,nanganga,16653.0
+masasi,nanjota,9094.0
+masasi,nyasa,14368.0
+masasi,sindano,5485.0
+masasi,sululu,9875.0
+masasi,temeke,11548.0
+maswa,badi,16134.0
+maswa,binza,12244.0
+maswa,buchambi,13522.0
+maswa,budekwa,13630.0
+maswa,busilili,15798.0
+maswa,dakama,14596.0
+maswa,ipililo,18892.0
+maswa,isanga,17034.0
+maswa,kadoto,11916.0
+maswa,kulimi,14383.0
+maswa,lalago,23390.0
+maswa,malampaka,16442.0
+maswa,masela,12381.0
+maswa,mpindo,12108.0
+maswa,mwamanenge,8686.0
+maswa,mwamashimba,9418.0
+maswa,mwanghonoli,9878.0
+maswa,nguliguli,6914.0
+maswa,ngwigwa,10003.0
+maswa,nyabubinza,9911.0
+maswa,nyalikungu,14358.0
+maswa,senani,11872.0
+maswa,sengwa,10544.0
+maswa,shishiyu,24698.0
+maswa,sukuma,9912.0
+maswa,zanzui,5460.0
+mbarali,chimala,16633.0
+mbarali,igava,14290.0
+mbarali,igurusi,22299.0
+mbarali,ihahi,8475.0
+mbarali,imalilosongwe,11269.0
+mbarali,ipwani,8502.0
+mbarali,itamboleo,9315.0
+mbarali,kongolo,10309.0
+mbarali,lugelele,8673.0
+mbarali,luhanga,11469.0
+mbarali,madibira,24744.0
+mbarali,mahongole,11743.0
+mbarali,mapogoro,24751.0
+mbarali,mawindi,9918.0
+mbarali,miyombweni,9776.0
+mbarali,mwatenga,8417.0
+mbarali,ruiwa,15867.0
+mbarali,rujewa,29473.0
+mbarali,ubaruku,29195.0
+mbarali,utengule usangu,15408.0
+mbeya,bonde la songwe,18487.0
+mbeya,forest,6649.0
+mbeya,ghana,4885.0
+mbeya,iduda,4157.0
+mbeya,igale,10865.0
+mbeya,iganjo,8697.0
+mbeya,iganzo,14411.0
+mbeya,igawilo,17304.0
+mbeya,igoma,6309.0
+mbeya,ihango,8341.0
+mbeya,ijombe,10185.0
+mbeya,ikukwa,6024.0
+mbeya,ilembo,17391.0
+mbeya,ilemi,26846.0
+mbeya,ilomba,34018.0
+mbeya,ilungu,12095.0
+mbeya,inyala,10543.0
+mbeya,isanga,11308.0
+mbeya,isuto,13957.0
+mbeya,isyesye,7970.0
+mbeya,itagano,1751.0
+mbeya,itawa,11156.0
+mbeya,itende,3490.0
+mbeya,itewe,4655.0
+mbeya,itezi,18450.0
+mbeya,itiji,4231.0
+mbeya,iwambi,12385.0
+mbeya,iwiji,15055.0
+mbeya,iwindi,18397.0
+mbeya,iyela,31638.0
+mbeya,iyunga,15026.0
+mbeya,iyunga mapinduzi,7377.0
+mbeya,iziwa,3176.0
+mbeya,kalobe,13183.0
+mbeya,lwanjiro,4323.0
+mbeya,maanga,6881.0
+mbeya,mabatini,7415.0
+mbeya,maendeleo,8091.0
+mbeya,majengo,3314.0
+mbeya,masoko,7681.0
+mbeya,mbalizi road,6046.0
+mbeya,mshewe,11241.0
+mbeya,mwakibete,23321.0
+mbeya,mwansekwa,1803.0
+mbeya,mwasanga,945.0
+mbeya,nonde,2488.0
+mbeya,nsalaga,18990.0
+mbeya,nsalala,19347.0
+mbeya,nsoho,1819.0
+mbeya,nzovwe,22896.0
+mbeya,ruanda,21928.0
+mbeya,santilya,17577.0
+mbeya,sinde,7014.0
+mbeya,sisimba,4112.0
+mbeya,swaya,9475.0
+mbeya,tembela,13045.0
+mbeya,ulenje,6946.0
+mbeya,utengule usongwe,41956.0
+mbeya,uyole,11544.0
+mbinga,kambarage,9711.0
+mbinga,kigonsera,10276.0
+mbinga,kihangi mahuka,12831.0
+mbinga,kihungu,3904.0
+mbinga,kikolo,4949.0
+mbinga,kilimani,11530.0
+mbinga,kipapa,7011.0
+mbinga,kipololo,4381.0
+mbinga,kitanda,7832.0
+mbinga,kitumbalomo,9106.0
+mbinga,kitura,7341.0
+mbinga,langiro,11241.0
+mbinga,linda,11112.0
+mbinga,litembo,12444.0
+mbinga,litumbandyosi,8743.0
+mbinga,luwaita,8030.0
+mbinga,maguu,13396.0
+mbinga,mapera,10514.0
+mbinga,matiri,11861.0
+mbinga,mbangamao,12106.0
+mbinga,mbinga mjini,37900.0
+mbinga,mbuji,11243.0
+mbinga,mkako,12733.0
+mbinga,mkalanga,8425.0
+mbinga,mkumbi,11585.0
+mbinga,mpapa,10424.0
+mbinga,mpepai,12696.0
+mbinga,myangayanga,10804.0
+mbinga,namswea,8081.0
+mbinga,ngima,10061.0
+mbinga,nyoni,10916.0
+mbinga,ruanda,7375.0
+mbinga,ukata,5157.0
+mbinga,utiri,7974.0
+mbogwe,bukandwe,11339.0
+mbogwe,ikobe,10350.0
+mbogwe,ikunguigazi,8053.0
+mbogwe,ilolangulu,11702.0
+mbogwe,iponya,13420.0
+mbogwe,isebya,9065.0
+mbogwe,lugunga,14983.0
+mbogwe,lulembela,18187.0
+mbogwe,masumbwe,18712.0
+mbogwe,mbogwe,9936.0
+mbogwe,nanda,7789.0
+mbogwe,ngemo,9193.0
+mbogwe,nghomolwa,6630.0
+mbogwe,nyakafulu,21898.0
+mbogwe,nyasato,11040.0
+mbogwe,ushirika,11624.0
+mbozi,bara,20109.0
+mbozi,halungu,27156.0
+mbozi,igamba,34823.0
+mbozi,ihanda,21360.0
+mbozi,ipunga,9367.0
+mbozi,isandula,14549.0
+mbozi,isansa,42883.0
+mbozi,itaka,21034.0
+mbozi,iyula,30776.0
+mbozi,mlangali,19538.0
+mbozi,mlowo,38014.0
+mbozi,msia,27364.0
+mbozi,myovizi,15738.0
+mbozi,nambinzo,25950.0
+mbozi,nanyala,8914.0
+mbozi,nyimbili,23904.0
+mbozi,ruanda,8604.0
+mbozi,vwawa,56259.0
+mbulu,ayamaami,4848.0
+mbulu,ayamohe,5785.0
+mbulu,bargish,8804.0
+mbulu,bashay,10192.0
+mbulu,daudi,7642.0
+mbulu,dinamu,11604.0
+mbulu,dongobesh,11770.0
+mbulu,endagikot,4463.0
+mbulu,endamilay,13966.0
+mbulu,eshkesh,5858.0
+mbulu,gehandu,12092.0
+mbulu,geterer,11446.0
+mbulu,gidihim,11197.0
+mbulu,gunyoda,11476.0
+mbulu,hayderer,13002.0
+mbulu,haydom,23014.0
+mbulu,imboru,7939.0
+mbulu,kainam,7678.0
+mbulu,maghang,13622.0
+mbulu,marang,7376.0
+mbulu,maretadu,14342.0
+mbulu,masieda,9929.0
+mbulu,masqaroda,10262.0
+mbulu,murray,9965.0
+mbulu,nahasey,9845.0
+mbulu,nambisi,8875.0
+mbulu,sanu baray,6233.0
+mbulu,tlawi,8549.0
+mbulu,tumati,12800.0
+mbulu,uhuru,7141.0
+mbulu,yaeda ampa,13136.0
+mbulu,yaeda chini,5420.0
+meatu,bukundi,10756.0
+meatu,imalaseko,6587.0
+meatu,itinje,14837.0
+meatu,kimali,9395.0
+meatu,kisesa,19506.0
+meatu,lingeka,6804.0
+meatu,lubiga,16352.0
+meatu,mwabuma,15576.0
+meatu,mwabusalu,11897.0
+meatu,mwabuzo,12269.0
+meatu,mwakisandu,8939.0
+meatu,mwamalole,9544.0
+meatu,mwamanimba,4782.0
+meatu,mwamanongu,7962.0
+meatu,mwamishali,12906.0
+meatu,mwandoya,17725.0
+meatu,mwangundo,12272.0
+meatu,mwanhuzi,20176.0
+meatu,mwanjolo,11951.0
+meatu,mwanyahina,11974.0
+meatu,mwasengela,13000.0
+meatu,nghoboko,12088.0
+meatu,nkoma,8525.0
+meatu,sakasaka,11754.0
+meatu,tindabuligi,12032.0
+meru,akheri,13697.0
+meru,kikatiti,16752.0
+meru,kikwe,10795.0
+meru,kingori,23278.0
+meru,leguruki,17634.0
+meru,maji ya chai,29306.0
+meru,makiba,11872.0
+meru,maroroni,14106.0
+meru,mbuguni,16133.0
+meru,ngarenanyuki,20380.0
+meru,nkoanrua,18522.0
+meru,nkoaranga,13930.0
+meru,nkoarisambu,7360.0
+meru,poli,9505.0
+meru,seela singisi,10108.0
+meru,songoro,11320.0
+meru,usa river,23427.0
+micheweni,chimba,3080.0
+micheweni,finya,2608.0
+micheweni,kifundi,2796.0
+micheweni,kinowe,4380.0
+micheweni,kinyasini,3188.0
+micheweni,kiuyu mbuyuni,6416.0
+micheweni,konde,8573.0
+micheweni,majenzi,2370.0
+micheweni,makangale,2645.0
+micheweni,maziwa ngombe,5820.0
+micheweni,mgogoni,2482.0
+micheweni,micheweni,6197.0
+micheweni,mihogoni,2596.0
+micheweni,mjini wingwi,4521.0
+micheweni,mlindo,2096.0
+micheweni,msuka magharibi,4274.0
+micheweni,msuka mashariki,4260.0
+micheweni,mtemani,3017.0
+micheweni,shumba mjini,4763.0
+micheweni,shumba viamboni,2580.0
+micheweni,sizini,5283.0
+micheweni,tondooni,2705.0
+micheweni,tumbe magharibi,4228.0
+micheweni,tumbe mashariki,4679.0
+micheweni,wingwi mapofu,4504.0
+micheweni,wingwi mjananza,1702.0
+micheweni,wingwi njuguni,2052.0
+missenyi,bugandika,9444.0
+missenyi,bugorora,6904.0
+missenyi,buyango,8878.0
+missenyi,bwanjai,8298.0
+missenyi,gera,4831.0
+missenyi,ishozi,7194.0
+missenyi,ishunju,3479.0
+missenyi,kakunyu,20134.0
+missenyi,kanyigo,10168.0
+missenyi,kashenye,5658.0
+missenyi,kassambya,26636.0
+missenyi,kilimilile,11454.0
+missenyi,kitobo,7327.0
+missenyi,kyaka,13192.0
+missenyi,mabale,6210.0
+missenyi,minziro,9948.0
+missenyi,mushasha,5084.0
+missenyi,mutukula,15502.0
+missenyi,nsunga,19002.0
+missenyi,ruzinga,3293.0
+misungwi,buhingo,13872.0
+misungwi,bulemeji,9388.0
+misungwi,busongo,9020.0
+misungwi,fella,5909.0
+misungwi,gulumungu,11638.0
+misungwi,idetemya,15384.0
+misungwi,igokelo,18300.0
+misungwi,ilalambogo,5692.0
+misungwi,ilujamate,15188.0
+misungwi,isesa,7579.0
+misungwi,kanyelele,14374.0
+misungwi,kasololo,15896.0
+misungwi,kijima,12030.0
+misungwi,koromije,13687.0
+misungwi,lubili,5572.0
+misungwi,mabuki,16312.0
+misungwi,mamaye,8790.0
+misungwi,mbarika,15218.0
+misungwi,misasi,16574.0
+misungwi,misungwi,30736.0
+misungwi,mondo,9452.0
+misungwi,mwaniko,8144.0
+misungwi,nhundulu,20236.0
+misungwi,shilalo,13204.0
+misungwi,sumbugu,14102.0
+misungwi,ukiriguru,10270.0
+misungwi,usagara,15040.0
+mjini,amani shehia,6156.0
+mjini,chumbuni shehia,10926.0
+mjini,gulioni shehia,2488.0
+mjini,jangombe shehia,6122.0
+mjini,karakana shehia,8610.0
+mjini,kidongo chekundu shehia,2290.0
+mjini,kikwajuni bondeni shehia,2257.0
+mjini,kikwajuni juu shehia,2408.0
+mjini,kilimahewa  bondeni shehia,5116.0
+mjini,kilimahewa juu shehia,4714.0
+mjini,kilimani shehia,2911.0
+mjini,kiponda shehia,1654.0
+mjini,kisimamajongoo shehia,2615.0
+mjini,kisiwandui shehia,1590.0
+mjini,kwa wazee shehia,6454.0
+mjini,kwaalimsha shehia,3479.0
+mjini,kwaalinatu shehia,5438.0
+mjini,kwahani shehia,4815.0
+mjini,kwamtipura shehia,11572.0
+mjini,magomeni shehia,6165.0
+mjini,makadara shehia,5048.0
+mjini,malindi shehia,3204.0
+mjini,matarumbeta shehia,2711.0
+mjini,mchangani shehia,2211.0
+mjini,meya shehia,5777.0
+mjini,miembeni shehia,6095.0
+mjini,migombani shehia,7164.0
+mjini,mikunguni shehia,2984.0
+mjini,mkele shehia,7140.0
+mjini,mkunazini shehia,3308.0
+mjini,mlandege shehia,2070.0
+mjini,mpendae shehia,13253.0
+mjini,muungano shehia,5304.0
+mjini,mwembeladu shehia,2954.0
+mjini,mwembemakumbi shehia,8354.0
+mjini,mwembeshauri shehia,1933.0
+mjini,mwembetanga shehia,2610.0
+mjini,nyerere shehia,9657.0
+mjini,rahaleo shehia,1950.0
+mjini,sebleni shehia,5102.0
+mjini,shangani shehia,3886.0
+mjini,shaurimoyo shehia,8336.0
+mjini,sogea shehia,4800.0
+mjini,urusi shehia,7532.0
+mjini,vikokotoni shehia,1872.0
+mkalama,gumanga,10946.0
+mkalama,ibaga,11713.0
+mkalama,iguguno,25862.0
+mkalama,ilunda,21628.0
+mkalama,kikhonda,7520.0
+mkalama,kinyangiri,13474.0
+mkalama,matongo,6338.0
+mkalama,miganga,8486.0
+mkalama,mpambala,11192.0
+mkalama,msingi,7290.0
+mkalama,mwanga,26020.0
+mkalama,mwangeza,19256.0
+mkalama,nduguti,8643.0
+mkalama,nkinto,10373.0
+mkinga,boma,2587.0
+mkinga,bosha,7584.0
+mkinga,bwiti,9710.0
+mkinga,daluni,6904.0
+mkinga,doda,2670.0
+mkinga,duga,9445.0
+mkinga,gombero,6302.0
+mkinga,kigongoi,7318.0
+mkinga,kwale,2430.0
+mkinga,manza,3613.0
+mkinga,mapatano,6676.0
+mkinga,maramba,10959.0
+mkinga,mayomboni,4001.0
+mkinga,mhinduro,6989.0
+mkinga,mkinga,4839.0
+mkinga,mnyenzani,3604.0
+mkinga,moa,4339.0
+mkinga,mtimbwani,3103.0
+mkinga,mwakijembe,6515.0
+mkinga,parungu  kasera,4560.0
+mkinga,sigaya,3912.0
+mkoani,chambani,6094.0
+mkoani,changaweni,1862.0
+mkoani,chokocho,4539.0
+mkoani,chumbageni,2579.0
+mkoani,jombwe,3012.0
+mkoani,kangani,3995.0
+mkoani,kendwa,4496.0
+mkoani,kengeja,6967.0
+mkoani,kisiwa panza,3087.0
+mkoani,kiwani,3025.0
+mkoani,kuukuu,2126.0
+mkoani,makombeni,3298.0
+mkoani,mbuguani,1724.0
+mkoani,mbuyuni,1883.0
+mkoani,mgagadu,2328.0
+mkoani,michenzani,2932.0
+mkoani,minazini,1463.0
+mkoani,mizingani,1628.0
+mkoani,mjimbini,2406.0
+mkoani,mkanyageni,3169.0
+mkoani,mkungu,1372.0
+mkoani,mtambile,4890.0
+mkoani,mtangani,3198.0
+mkoani,muambe,6663.0
+mkoani,ngombeni,3159.0
+mkoani,ngwachani,3111.0
+mkoani,shamiani,951.0
+mkoani,shidi,982.0
+mkoani,stahabu,2369.0
+mkoani,ukutini,2746.0
+mkoani,uweleni,2538.0
+mkoani,wambaa,3271.0
+mkuranga,bupu,7241.0
+mkuranga,kimanzichana,17841.0
+mkuranga,kiparanganda,10591.0
+mkuranga,kisiju,12113.0
+mkuranga,kitomondo,4880.0
+mkuranga,lukanga,10353.0
+mkuranga,magawa,5852.0
+mkuranga,mbezi,7760.0
+mkuranga,mkamba,14493.0
+mkuranga,mkuranga,25846.0
+mkuranga,mwalusembe,11707.0
+mkuranga,njia nne,6627.0
+mkuranga,nyamato,11832.0
+mkuranga,panzuo,7559.0
+mkuranga,shungubweni,2985.0
+mkuranga,tambani,20203.0
+mkuranga,vianzi,10261.0
+mkuranga,vikindu,34755.0
+mlele,ikuba,7978.0
+mlele,ilela,6229.0
+mlele,ilunde,3719.0
+mlele,inyonga,11128.0
+mlele,itenka,16123.0
+mlele,kapalala,4508.0
+mlele,kasansa,7929.0
+mlele,kasokola,3967.0
+mlele,kibaoni,12392.0
+mlele,litapunga,70856.0
+mlele,machimboni,9371.0
+mlele,magamba,3186.0
+mlele,majimoto,18168.0
+mlele,mamba,21546.0
+mlele,mbede,10538.0
+mlele,mtapenda,4811.0
+mlele,mwamapuli,16250.0
+mlele,nsenkwa,6007.0
+mlele,nsimbo,7104.0
+mlele,sitalike,9637.0
+mlele,ugala,8559.0
+mlele,urwila,6124.0
+mlele,usevya,8827.0
+mlele,utende,7615.0
+momba,chilulumo,11180.0
+momba,chitete,19429.0
+momba,chiwezi,25065.0
+momba,ivuna,31254.0
+momba,kamsamba,17054.0
+momba,kapele,11690.0
+momba,mkulwe,9337.0
+momba,mpapa,6512.0
+momba,msangano,15771.0
+momba,myunga,11591.0
+momba,ndalambo,11693.0
+momba,nkangamo,12996.0
+momba,nzoka,13253.0
+monduli,engaruka,11120.0
+monduli,engutoto,6970.0
+monduli,esilalei,14596.0
+monduli,lepurko,8150.0
+monduli,lolkisale,10056.0
+monduli,majengo,7856.0
+monduli,makuyuni,11228.0
+monduli,meserani,11301.0
+monduli,moita,11338.0
+monduli,monduli juu,15910.0
+monduli,monduli mjini,7796.0
+monduli,mswakini,5777.0
+monduli,mto wa mbu,11410.0
+monduli,selela,8701.0
+monduli,sepeko,16720.0
+morogoro,bigwa,10150.0
+morogoro,boma,8705.0
+morogoro,bungu,4406.0
+morogoro,bwakila chini,13716.0
+morogoro,bwakila juu,5976.0
+morogoro,gwata,6576.0
+morogoro,k  ndege,12205.0
+morogoro,kasanga,6557.0
+morogoro,kibogwa,7987.0
+morogoro,kibungo juu,6304.0
+morogoro,kichangani,19164.0
+morogoro,kidugalo,9275.0
+morogoro,kihonda,44418.0
+morogoro,kilakala,18348.0
+morogoro,kingo,2945.0
+morogoro,kingolwira,21953.0
+morogoro,kinole,11939.0
+morogoro,kiroka,21856.0
+morogoro,kisaki,13511.0
+morogoro,kisemu,9137.0
+morogoro,kolero,9301.0
+morogoro,konde,5546.0
+morogoro,lundi,9686.0
+morogoro,mafiga,13586.0
+morogoro,matuli,6103.0
+morogoro,mazimbu,72520.0
+morogoro,mbuyuni,11784.0
+morogoro,mikese,15573.0
+morogoro,mji mkuu,4613.0
+morogoro,mji mpya,7359.0
+morogoro,mkambarani,11553.0
+morogoro,mkulazi,5064.0
+morogoro,mkuyuni,17932.0
+morogoro,mlimani,4892.0
+morogoro,mngazi,9527.0
+morogoro,mtombozi,9215.0
+morogoro,mvuha,14251.0
+morogoro,mwembesongo,43573.0
+morogoro,mzinga,7452.0
+morogoro,ngerengere,11778.0
+morogoro,sabasaba,2339.0
+morogoro,selembala,6861.0
+morogoro,singisa,11495.0
+morogoro,sultan area,2602.0
+morogoro,tawa,11018.0
+morogoro,tegetero,6644.0
+morogoro,tununguo,7462.0
+morogoro,uwanja wa taifa,7245.0
+moshi,arusha chini,13961.0
+moshi,boma mbuzi,15776.0
+moshi,bondeni,4051.0
+moshi,kahe,19137.0
+moshi,kahe mashariki,11384.0
+moshi,kaloleni,6555.0
+moshi,karanga,7126.0
+moshi,kiboriloni,9203.0
+moshi,kibosho kati,10257.0
+moshi,kibosho magharibi,20287.0
+moshi,kibosho mashariki,14152.0
+moshi,kilema kaskazini,9670.0
+moshi,kilema kati,6992.0
+moshi,kilema kusini,22709.0
+moshi,kilimanjaro,5232.0
+moshi,kimochi,13563.0
+moshi,kindi,21389.0
+moshi,kirima,10712.0
+moshi,kirua vunjo magharibi,12840.0
+moshi,kirua vunjo mashariki,8657.0
+moshi,kiruavunjo kusini,19377.0
+moshi,kiusa,5952.0
+moshi,korongoni,5815.0
+moshi,longuo b,6630.0
+moshi,mabogini,28993.0
+moshi,majengo,9008.0
+moshi,makuyuni,22438.0
+moshi,mamba kaskazini,9066.0
+moshi,mamba kusini,10060.0
+moshi,marangu magharibi,18976.0
+moshi,marangu mashariki,23733.0
+moshi,mawenzi,1770.0
+moshi,mbokomu,14606.0
+moshi,mfumuni,4750.0
+moshi,miembeni,15218.0
+moshi,mji mpya,15295.0
+moshi,msaranga,7699.0
+moshi,mwika kaskazini,21180.0
+moshi,mwika kusini,19640.0
+moshi,ngambo,7889.0
+moshi,njoro,14291.0
+moshi,okaoni,10446.0
+moshi,old moshi mashariki,17628.0
+moshi,pasua,13460.0
+moshi,rau,9136.0
+moshi,shirimatunda,4486.0
+moshi,soweto,14942.0
+moshi,uru kaskazini,11082.0
+moshi,uru kusini,22904.0
+moshi,uru mashariki,14782.0
+moshi,uru shimbwe,6108.0
+mpanda,ikola,17659.0
+mpanda,ilembo,3334.0
+mpanda,kabungu,22674.0
+mpanda,kakese,21363.0
+mpanda,kapalamsenga,8852.0
+mpanda,karema,7464.0
+mpanda,kashaulili,13010.0
+mpanda,katuma,9468.0
+mpanda,kawajense,15378.0
+mpanda,makanyagio,10376.0
+mpanda,mishamo,61009.0
+mpanda,misunkumilo,3396.0
+mpanda,mpanda hotel,11527.0
+mpanda,mpandandogo,25290.0
+mpanda,mwese,7518.0
+mpanda,nsemulwa,17168.0
+mpanda,shanwe,7360.0
+mpanda,sibwesa,19188.0
+mpwapwa,berege,10930.0
+mpwapwa,chipogoro,10682.0
+mpwapwa,chitemo,7782.0
+mpwapwa,chunyu,11594.0
+mpwapwa,galigali,4355.0
+mpwapwa,godegode,7884.0
+mpwapwa,gulwe,10388.0
+mpwapwa,ipera,12868.0
+mpwapwa,iwondo,7698.0
+mpwapwa,kibakwe,16706.0
+mpwapwa,kimagai,7340.0
+mpwapwa,kingiti,7024.0
+mpwapwa,lufu,4937.0
+mpwapwa,luhundwa,12162.0
+mpwapwa,lumuma,3783.0
+mpwapwa,lupeta,8477.0
+mpwapwa,malolo,5306.0
+mpwapwa,massa,12563.0
+mpwapwa,matomondo,17134.0
+mpwapwa,mazae,8022.0
+mpwapwa,mbuga,5814.0
+mpwapwa,mima,14434.0
+mpwapwa,mlunduzi,9668.0
+mpwapwa,mpwapwa mjini,21340.0
+mpwapwa,mtera,10931.0
+mpwapwa,nghambi,8376.0
+mpwapwa,pwaga,11215.0
+mpwapwa,rudi,10025.0
+mpwapwa,vinghawe,12276.0
+mpwapwa,wotta,13342.0
+mtwara,chawi,6644.0
+mtwara,chikongola,14786.0
+mtwara,chuno,8885.0
+mtwara,dihimba,6910.0
+mtwara,jangwani,4215.0
+mtwara,kiromba,4766.0
+mtwara,kisungule,1123.0
+mtwara,kitaya,8542.0
+mtwara,kitere,10270.0
+mtwara,kiyanga,5065.0
+mtwara,libobe,5641.0
+mtwara,likombe,13302.0
+mtwara,madimba,13138.0
+mtwara,magengeni,1800.0
+mtwara,mahurunga,8214.0
+mtwara,majengo,3859.0
+mtwara,mayanga,9528.0
+mtwara,mbawala,8053.0
+mtwara,mbembaleo,6124.0
+mtwara,milangominne,6685.0
+mtwara,mitengo,1600.0
+mtwara,mnima,12364.0
+mtwara,mpapura,4934.0
+mtwara,msanga mkuu,10845.0
+mtwara,mtimbwilimbwi,8233.0
+mtwara,mtiniko,7421.0
+mtwara,mtonya,1911.0
+mtwara,muungano,3551.0
+mtwara,naliendele,7240.0
+mtwara,namtumbuka,8162.0
+mtwara,nanguruwe,6212.0
+mtwara,nanyamba,13319.0
+mtwara,naumbu,9746.0
+mtwara,ndumbwe,6231.0
+mtwara,nitekela,9664.0
+mtwara,njengwa,10067.0
+mtwara,rahaleo,5207.0
+mtwara,railway,2788.0
+mtwara,shangani,12896.0
+mtwara,tangazo,8750.0
+mtwara,ufukoni,25016.0
+mtwara,vigaeni,3673.0
+mtwara,ziwani,8919.0
+mufindi,bumilayinga,6137.0
+mufindi,idunda,6111.0
+mufindi,ifwagi,16722.0
+mufindi,igombavu,7101.0
+mufindi,igowole,13461.0
+mufindi,ihalimba,11206.0
+mufindi,ihanu,8541.0
+mufindi,ihowanza,10756.0
+mufindi,ikweha,8214.0
+mufindi,isalavanu,7481.0
+mufindi,itandula,11867.0
+mufindi,kasanga,7906.0
+mufindi,kibengu,15804.0
+mufindi,kiyowela,7541.0
+mufindi,luhunga,9566.0
+mufindi,makungu,12754.0
+mufindi,malangali,5850.0
+mufindi,mapanda,13145.0
+mufindi,mbalamaziwa,8021.0
+mufindi,mdabulo,9341.0
+mufindi,mninga,14801.0
+mufindi,mtambula,10480.0
+mufindi,mtwango,17075.0
+mufindi,nyololo,11978.0
+mufindi,rungemba,6120.0
+mufindi,sadani,8584.0
+muheza,amani,5552.0
+muheza,bwembwera,5557.0
+muheza,genge,6520.0
+muheza,kicheba,6328.0
+muheza,kigombe,5677.0
+muheza,kilulu,8212.0
+muheza,kisiwani,7123.0
+muheza,kwafungo,11941.0
+muheza,kwakifua,3084.0
+muheza,kwemkabala,6670.0
+muheza,lusanga,7739.0
+muheza,magila,6758.0
+muheza,magoroto,5769.0
+muheza,majengo,6990.0
+muheza,masuguru,3824.0
+muheza,mbaramo,2796.0
+muheza,mbomole,5663.0
+muheza,mhamba,3391.0
+muheza,misalai,6943.0
+muheza,misozwe,6606.0
+muheza,mkuzi,7948.0
+muheza,mlingoni,5327.0
+muheza,mpapayu,3225.0
+muheza,mtindiro,10831.0
+muheza,ngomeni,9190.0
+muheza,nkumba,6473.0
+muheza,pande darajani,3682.0
+muheza,potwe,5813.0
+muheza,songa,5769.0
+muheza,tanganyika,3580.0
+muheza,tingeni,2709.0
+muheza,tongwe,7478.0
+muheza,zirai,9288.0
+muleba,biirabo,18898.0
+muleba,bisheke,17666.0
+muleba,buganguzi,10562.0
+muleba,buhangaza,6602.0
+muleba,bulyakashaju,9952.0
+muleba,bumbire,13026.0
+muleba,bureza,7471.0
+muleba,burungura,13352.0
+muleba,goziba,9779.0
+muleba,gwanseli,14456.0
+muleba,ibuga,12732.0
+muleba,ijumbi,13177.0
+muleba,ikondo,6312.0
+muleba,ikuza,11974.0
+muleba,izigo,10840.0
+muleba,kabirizi,12660.0
+muleba,kagoma,7012.0
+muleba,kamachumu,17568.0
+muleba,karambi,19060.0
+muleba,kasharunga,24272.0
+muleba,kashasha,11020.0
+muleba,katoke,12176.0
+muleba,kibanga,10432.0
+muleba,kikuku,9555.0
+muleba,kimwani,20162.0
+muleba,kishanda,17752.0
+muleba,kyebitembe,25460.0
+muleba,mafumbo,5444.0
+muleba,magata karutanga,7670.0
+muleba,mayondwe,7216.0
+muleba,mazinga kisiwa,6730.0
+muleba,mubunda,16724.0
+muleba,muhutwe,11492.0
+muleba,muleba,18464.0
+muleba,mushabago,8793.0
+muleba,ngenge,20340.0
+muleba,nshamba,24434.0
+muleba,nyakabango,15426.0
+muleba,nyakatanga,9080.0
+muleba,ruhanga,7517.0
+muleba,rulanda,10166.0
+muleba,rutoro,9979.0
+musoma,bugwema,11250.0
+musoma,buhare,10130.0
+musoma,bukima,18536.0
+musoma,bukumi,12096.0
+musoma,bulinga,6367.0
+musoma,busambara,8707.0
+musoma,bwasi,11716.0
+musoma,bweri,25946.0
+musoma,iringo,5321.0
+musoma,kamunyonge,5004.0
+musoma,kigera,21080.0
+musoma,kiriba,16730.0
+musoma,kitaji,5464.0
+musoma,makojo,9648.0
+musoma,makoko,9888.0
+musoma,mugango,10124.0
+musoma,mukendo,2426.0
+musoma,murangi,16932.0
+musoma,mwigobero,2179.0
+musoma,mwisenge,13605.0
+musoma,none,1637.0
+musoma,nyakato,20416.0
+musoma,nyamatare,6528.0
+musoma,nyambono,18106.0
+musoma,nyamrandirira,12068.0
+musoma,nyasho,6344.0
+musoma,suguti,13730.0
+musoma,tegeruka,10702.0
+mvomero,bunduki,7136.0
+mvomero,diongoya,21018.0
+mvomero,doma,13038.0
+mvomero,hembeti,21061.0
+mvomero,kanga,21024.0
+mvomero,kibati,22628.0
+mvomero,kikeo,14518.0
+mvomero,langali,8611.0
+mvomero,maskati,14397.0
+mvomero,melela,11518.0
+mvomero,mhonda,20351.0
+mvomero,mlali,23322.0
+mvomero,mtibwa,31385.0
+mvomero,mvomero,37320.0
+mvomero,mzumbe,19054.0
+mvomero,sungaji,14508.0
+mvomero,tchenzema,11229.0
+mwanga,chomvu,7445.0
+mwanga,jipe,2564.0
+mwanga,kifula,8019.0
+mwanga,kighare,6253.0
+mwanga,kigonigoni,2609.0
+mwanga,kileo,13642.0
+mwanga,kilomeni,4466.0
+mwanga,kirongwe,4771.0
+mwanga,kirya,4916.0
+mwanga,kivisini,1694.0
+mwanga,kwakoa,3717.0
+mwanga,langata,8963.0
+mwanga,lembeni,11780.0
+mwanga,mgagao,6011.0
+mwanga,msangeni,6924.0
+mwanga,mwanga,15784.0
+mwanga,mwaniko,7740.0
+mwanga,ngujini,3314.0
+mwanga,shighatini,7764.0
+mwanga,toloha,3054.0
+nachingwea,chiola,5385.0
+nachingwea,kiegei,5046.0
+nachingwea,kilimahewa,6835.0
+nachingwea,kilimarondo,4344.0
+nachingwea,kiparamnero,4917.0
+nachingwea,lionja,8521.0
+nachingwea,marambo,8765.0
+nachingwea,matekwe,3096.0
+nachingwea,mbondo,7484.0
+nachingwea,mkoka,5768.0
+nachingwea,mkotokuyana,2900.0
+nachingwea,mneromiembeni,8513.0
+nachingwea,mnerongongo,5101.0
+nachingwea,mpiruka,5767.0
+nachingwea,mtua,7757.0
+nachingwea,naipanga,10667.0
+nachingwea,naipingo,16226.0
+nachingwea,namapwia,4323.0
+nachingwea,namatula,3604.0
+nachingwea,nambambo,16593.0
+nachingwea,namikango,3772.0
+nachingwea,nangowe,8934.0
+nachingwea,nditi,4720.0
+nachingwea,ndomoni,5014.0
+nachingwea,ruponda,6338.0
+nachingwea,stesheni,8071.0
+namtumbo,hanga,14217.0
+namtumbo,iitola,10754.0
+namtumbo,kitanda,10497.0
+namtumbo,ligera,11794.0
+namtumbo,likuyuseka,10808.0
+namtumbo,limamu,6289.0
+namtumbo,luchili,13824.0
+namtumbo,luegu,7753.0
+namtumbo,lusewa,18885.0
+namtumbo,magazini,8635.0
+namtumbo,mchomoro,10170.0
+namtumbo,mgombasi,9996.0
+namtumbo,mkongo,7012.0
+namtumbo,mputa,11118.0
+namtumbo,msindo,6882.0
+namtumbo,namabengo,10054.0
+namtumbo,namtumbo,19274.0
+namtumbo,rwinga,13668.0
+nanyumbu,chipuputa,9925.0
+nanyumbu,likokona,18631.0
+nanyumbu,lumesule,7656.0
+nanyumbu,mangaka,16496.0
+nanyumbu,maratani,6668.0
+nanyumbu,masuguru,5944.0
+nanyumbu,mikangaula,16847.0
+nanyumbu,mkonona,8137.0
+nanyumbu,mnanje,7914.0
+nanyumbu,nandete,10067.0
+nanyumbu,nangomba,8179.0
+nanyumbu,nanyumbu,10825.0
+nanyumbu,napacho,10092.0
+nanyumbu,sengenya,13478.0
+newala,chihangu,5773.0
+newala,chilangalanga,9676.0
+newala,chitekete,3919.0
+newala,chiwonga,5296.0
+newala,kitangari,11390.0
+newala,luchingu,20739.0
+newala,makonga,7892.0
+newala,makote,9055.0
+newala,makukwe,6321.0
+newala,malatu,6265.0
+newala,maputi,6421.0
+newala,mchemo,8886.0
+newala,mcholi i,11651.0
+newala,mcholi ii,6003.0
+newala,mdimbampelempele,3857.0
+newala,mkoma ii,2834.0
+newala,mkunya,6363.0
+newala,mkwedu,6437.0
+newala,mnekachi,6131.0
+newala,mnyambe,7576.0
+newala,mtonya,7639.0
+newala,mtopwa,8477.0
+newala,mtunguru,6048.0
+newala,nakahako,4507.0
+newala,nambali,6295.0
+newala,namiyonga,6365.0
+newala,nandwahi,6261.0
+newala,nanguruwe,7413.0
+ngara,bugarama,28726.0
+ngara,bukiriro,19870.0
+ngara,kabanga,22010.0
+ngara,kanazi,17935.0
+ngara,kasulo,18430.0
+ngara,keza,9524.0
+ngara,kibimba,12778.0
+ngara,kirushya,10630.0
+ngara,mabawe,12822.0
+ngara,mbuba,11044.0
+ngara,muganza,15004.0
+ngara,mugoma,13495.0
+ngara,murukulazo,15138.0
+ngara,murusagamba,18096.0
+ngara,ngara mjini,20976.0
+ngara,ntobeye,15756.0
+ngara,nyakisasa,19208.0
+ngara,nyamiyaga,8380.0
+ngara,rulenge,17308.0
+ngara,rusumo,12922.0
+ngorongoro,alailelai,7350.0
+ngorongoro,arash,7840.0
+ngorongoro,digodigo,8195.0
+ngorongoro,enduleni,13532.0
+ngorongoro,enguserosambu,1521.0
+ngorongoro,kakesio,5538.0
+ngorongoro,maalon,4350.0
+ngorongoro,malambo,14224.0
+ngorongoro,nainokanoka,12974.0
+ngorongoro,naiyobi,9136.0
+ngorongoro,ngorongoro,12584.0
+ngorongoro,olbalbal,8968.0
+ngorongoro,oldonyosambu,5230.0
+ngorongoro,oloipiri,4113.0
+ngorongoro,oloirien,9490.0
+ngorongoro,ololosokwan,6556.0
+ngorongoro,orgosorok,12268.0
+ngorongoro,pinyinyi,8486.0
+ngorongoro,sale,4384.0
+ngorongoro,samunge,6580.0
+ngorongoro,soitsambu,10960.0
+njombe,ihanga,5094.0
+njombe,iwungilo,8418.0
+njombe,kifanya,9011.0
+njombe,lugenge,5843.0
+njombe,luponde,9372.0
+njombe,makowo,4213.0
+njombe,matola,12262.0
+njombe,mjimwema,13929.0
+njombe,njombe mjini,26678.0
+njombe,ramadhani,16304.0
+njombe,utalingolo,4536.0
+njombe,uwemba,8900.0
+njombe,yakobi,5661.0
+njombe ,idamba,3148.0
+njombe ,igongolo,8447.0
+njombe ,ikondo,7636.0
+njombe ,ikuna,9179.0
+njombe ,kichiwa,9961.0
+njombe ,kidegembye,8066.0
+njombe ,lupembe,7709.0
+njombe ,matembwe,8654.0
+njombe ,mfriga,4249.0
+njombe ,mtwango,12948.0
+njombe ,ninga,5751.0
+nkasi,chala,13500.0
+nkasi,isale,14500.0
+nkasi,kabwe,13088.0
+nkasi,kala,13342.0
+nkasi,kate,23678.0
+nkasi,kipande,16916.0
+nkasi,kipili,16527.0
+nkasi,kirando,21166.0
+nkasi,korongwe,17621.0
+nkasi,mkwamba,11323.0
+nkasi,mtenga,29864.0
+nkasi,namanyere,18875.0
+nkasi,ninde,12291.0
+nkasi,nkandasi,15493.0
+nkasi,nkomolo,19485.0
+nkasi,sintali,8925.0
+nkasi,wampembe,14614.0
+nyamagana,buhongwa,26681.0
+nyamagana,butimba,46948.0
+nyamagana,igogo,27306.0
+nyamagana,igoma,56592.0
+nyamagana,isamilo,24222.0
+nyamagana,mahina,59434.0
+nyamagana,mbugani,39044.0
+nyamagana,mikuyuni,18781.0
+nyamagana,mirongo,2925.0
+nyamagana,mkolani,32199.0
+nyamagana,nyamagana,5807.0
+nyamagana,pamba,23519.0
+nyanghwale,bukwimba,17331.0
+nyanghwale,busolwa,16894.0
+nyanghwale,izunya,6522.0
+nyanghwale,kafita,11848.0
+nyanghwale,kakora,16131.0
+nyanghwale,kharumwa,13479.0
+nyanghwale,mwingiro,8382.0
+nyanghwale,nyabulanda,9286.0
+nyanghwale,nyanghwale,9353.0
+nyanghwale,nyijundu,12003.0
+nyanghwale,nyugwa,12743.0
+nyanghwale,shabaka,14343.0
+nyasa,chiwanda,7086.0
+nyasa,kihagara,10323.0
+nyasa,kilosa,7816.0
+nyasa,kingerikiti,15877.0
+nyasa,liparamba,9671.0
+nyasa,lipingo,8944.0
+nyasa,lituhi,9859.0
+nyasa,liuli,12612.0
+nyasa,liwundi,4906.0
+nyasa,luhangarasi,7970.0
+nyasa,mbaha,6973.0
+nyasa,mbambabay,10068.0
+nyasa,mtipwili,7102.0
+nyasa,ngumbo,3933.0
+nyasa,tingi,23029.0
+nzega,budushi,6940.0
+nzega,bukene,7640.0
+nzega,igusule,16692.0
+nzega,ijanija,9872.0
+nzega,ikindwa,9696.0
+nzega,isagenhe,10058.0
+nzega,isanzu,12507.0
+nzega,itilo,14668.0
+nzega,itobo,9412.0
+nzega,karitu,8346.0
+nzega,kasela,9258.0
+nzega,knhalanga,13700.0
+nzega,lusu,18957.0
+nzega,magengati,12432.0
+nzega,mambali,33378.0
+nzega,mbogwe,6534.0
+nzega,miguwa,13313.0
+nzega,milambo itobo,12567.0
+nzega,mizibaziba,11608.0
+nzega,mogwa,12142.0
+nzega,muhugi,12337.0
+nzega,mwakashanhala,19858.0
+nzega,mwamala,15621.0
+nzega,mwangoye,13147.0
+nzega,nata,14429.0
+nzega,ndala,17564.0
+nzega,nkiniziwa,19900.0
+nzega,nzega mjini,34743.0
+nzega,nzega ndogo,8726.0
+nzega,puge,12987.0
+nzega,semembela,17113.0
+nzega,shigamba,4601.0
+nzega,sigili,9754.0
+nzega,tongi,17152.0
+nzega,uduka,4832.0
+nzega,utwigu,22744.0
+nzega,wela,7030.0
+pangani,bushiri,7294.0
+pangani,bweni,1263.0
+pangani,kimanga,3876.0
+pangani,kipumbwi,5333.0
+pangani,madanga,3298.0
+pangani,mikunguni,4646.0
+pangani,mkalamo,5566.0
+pangani,mkwaja,4217.0
+pangani,mwera,4602.0
+pangani,pangani magharibi,6261.0
+pangani,pangani mashariki,2976.0
+pangani,tungamaa,2583.0
+pangani,ubangaa,2112.0
+rombo,aleni,9800.0
+rombo,holili,7302.0
+rombo,katangara mrere,11644.0
+rombo,kelamfua mokala,13306.0
+rombo,keni  mengeni,8718.0
+rombo,kirongo samanga,14896.0
+rombo,kirwa keni,8362.0
+rombo,kisale msaranga,10050.0
+rombo,kitirima kingachi,18420.0
+rombo,mahida,7980.0
+rombo,makiidi,8720.0
+rombo,mamsera,9932.0
+rombo,manda,4040.0
+rombo,marangu kitowo,7736.0
+rombo,mengwe,5278.0
+rombo,motamburu kitendeni,5603.0
+rombo,mrao keryo,8198.0
+rombo,nanjara reha,26714.0
+rombo,ngoyoni,4037.0
+rombo,olele,6722.0
+rombo,shimbi,14594.0
+rombo,tarakea motamburu,20744.0
+rombo,ubetu kahe,19290.0
+rombo,ushiri ikuini,8883.0
+rorya,bukura,15230.0
+rorya,bukwe,9920.0
+rorya,goribe,9916.0
+rorya,ikoma,10400.0
+rorya,kigunga,13824.0
+rorya,kirogo,7250.0
+rorya,kisumwa,12445.0
+rorya,kitembe,9844.0
+rorya,komuge,13652.0
+rorya,koryo,7650.0
+rorya,kyangombe,18440.0
+rorya,mirare,12416.0
+rorya,mkoma,17130.0
+rorya,nyahongo,18452.0
+rorya,nyamagaro,17004.0
+rorya,nyamtinga,11205.0
+rorya,nyamunga,13160.0
+rorya,nyathorogo,14808.0
+rorya,rabour,11262.0
+rorya,roche,8728.0
+rorya,tai,12506.0
+ruangwa,chibula,2936.0
+ruangwa,chienjele,8691.0
+ruangwa,chinongwe,7700.0
+ruangwa,chunyu,5811.0
+ruangwa,likunja,8425.0
+ruangwa,luchelegwa,4529.0
+ruangwa,makanjiro,3323.0
+ruangwa,malolo,7405.0
+ruangwa,mandarawe,3796.0
+ruangwa,mandawa,6661.0
+ruangwa,matambarale,5070.0
+ruangwa,mbekenyera,11258.0
+ruangwa,mnacho,6605.0
+ruangwa,nachingwea,8144.0
+ruangwa,nambilaje,6182.0
+ruangwa,namichiga,5167.0
+ruangwa,nandagala,5314.0
+ruangwa,nanganga,4960.0
+ruangwa,narungombe,8407.0
+ruangwa,nkowe,5265.0
+ruangwa,ruangwa,5434.0
+rufiji,bungu,18714.0
+rufiji,chemchem,5133.0
+rufiji,chumbi,16333.0
+rufiji,dimani,5444.0
+rufiji,ikwiriri,12200.0
+rufiji,kibiti,15156.0
+rufiji,kiongoroni,4896.0
+rufiji,mahege,5968.0
+rufiji,maparoni,5783.0
+rufiji,mbuchi,6023.0
+rufiji,mbwara,9710.0
+rufiji,mchukwi,7001.0
+rufiji,mgomba,9026.0
+rufiji,mjawa,12046.0
+rufiji,mkongo,4619.0
+rufiji,mlanzi,5217.0
+rufiji,mtawanya,6772.0
+rufiji,mtunda,8134.0
+rufiji,mwambao,5182.0
+rufiji,mwaseni,6390.0
+rufiji,ngarambe,2453.0
+rufiji,ngorongo,11947.0
+rufiji,ruaruke,7229.0
+rufiji,salale,9076.0
+rufiji,umwe,10936.0
+rufiji,utete,5878.0
+rungwe,bagamoyo,3207.0
+rungwe,bujela,5580.0
+rungwe,bulyaga,6393.0
+rungwe,ibighi,8899.0
+rungwe,ikama,3766.0
+rungwe,ikuti,13037.0
+rungwe,ilima,6737.0
+rungwe,isange,5789.0
+rungwe,isongole,18691.0
+rungwe,itete,9870.0
+rungwe,kabula,10271.0
+rungwe,kambasegela,12599.0
+rungwe,kandete,10284.0
+rungwe,kawetele,5507.0
+rungwe,kikole,3303.0
+rungwe,kinyala,12871.0
+rungwe,kisegese,5511.0
+rungwe,kisiba,6628.0
+rungwe,kisondela,11068.0
+rungwe,kiwira,25244.0
+rungwe,kyimo,14033.0
+rungwe,lufilyo,6370.0
+rungwe,lufingo,17166.0
+rungwe,lupata,9088.0
+rungwe,luteba,7111.0
+rungwe,lwangwa,10668.0
+rungwe,makandana,7613.0
+rungwe,malindo,5960.0
+rungwe,masebe,4967.0
+rungwe,masoko,6136.0
+rungwe,masukulu,5795.0
+rungwe,mpombo,8787.0
+rungwe,mpuguso,13971.0
+rungwe,msasani,6292.0
+rungwe,nkunga,16137.0
+rungwe,suma,6257.0
+rungwe,swaya,7555.0
+same,bendera,4914.0
+same,bombo,5530.0
+same,bwambo,9480.0
+same,chome,5893.0
+same,hedaru,18474.0
+same,kalemawe,4249.0
+same,kihurio,10340.0
+same,kirangare,5528.0
+same,kisima,9885.0
+same,kisiwani,9312.0
+same,lugulu,6460.0
+same,mabilioni,6572.0
+same,makanya,10628.0
+same,maore,15720.0
+same,mhezi,4790.0
+same,mpinji,8452.0
+same,mshewa,6153.0
+same,msindo,6494.0
+same,mtii,5488.0
+same,mwembe,11910.0
+same,myamba,13167.0
+same,ndungu,13638.0
+same,njoro,5369.0
+same,ruvu,14262.0
+same,same,9050.0
+same,stesheni,6860.0
+same,suji,8774.0
+same,vudee,7120.0
+same,vuje,10726.0
+same,vumari,5910.0
+same,vunta,8659.0
+sengerema,bulyaheke,35382.0
+sengerema,bupandwa,30190.0
+sengerema,busisi,16838.0
+sengerema,buyagu,15485.0
+sengerema,buzilasoga,13348.0
+sengerema,chifunfu,23376.0
+sengerema,ibisabageni,13257.0
+sengerema,igalula,18854.0
+sengerema,igulumuki,8962.0
+sengerema,irenza,19208.0
+sengerema,kafunzo,10744.0
+sengerema,kagunga,19818.0
+sengerema,kalebezo,18956.0
+sengerema,kasenyi,15590.0
+sengerema,kasungamile,15598.0
+sengerema,katunguru,20286.0
+sengerema,katwe,24170.0
+sengerema,kazunzu,14060.0
+sengerema,kishinda,12341.0
+sengerema,lugata,25592.0
+sengerema,maisome,16490.0
+sengerema,mwabaluhi,10845.0
+sengerema,nyakaliro,33834.0
+sengerema,nyakasasa,21934.0
+sengerema,nyakasungwa,20816.0
+sengerema,nyamatongo,26704.0
+sengerema,nyamazugo,16352.0
+sengerema,nyampande,9571.0
+sengerema,nyampulukano,32650.0
+sengerema,nyanzenda,20654.0
+sengerema,nyatukala,20166.0
+sengerema,nyehunge,35728.0
+sengerema,sima,15476.0
+sengerema,tabaruka,9747.0
+serengeti,busawe,5531.0
+serengeti,geitasamo,5521.0
+serengeti,ikoma,6502.0
+serengeti,issenye,10162.0
+serengeti,kebanchabancha,8240.0
+serengeti,kenyamonta,11337.0
+serengeti,kisaka,12533.0
+serengeti,kisangura,8506.0
+serengeti,kyambahi,7021.0
+serengeti,machochwe,9871.0
+serengeti,magange,7261.0
+serengeti,majimoto,8536.0
+serengeti,manchira,7888.0
+serengeti,mbalibali,11390.0
+serengeti,morotonga,4108.0
+serengeti,mosongo,11620.0
+serengeti,mugumu,10226.0
+serengeti,natta,12851.0
+serengeti,nyamatare,5476.0
+serengeti,nyambureti,14158.0
+serengeti,nyamoko,8235.0
+serengeti,nyansurura,10128.0
+serengeti,rigicha,9462.0
+serengeti,ringwani,8785.0
+serengeti,rungabure,9700.0
+serengeti,sedeco,11436.0
+serengeti,stendi kuu,6624.0
+serengeti,uwanja wa ndege,6309.0
+shinyanga,bukene,7724.0
+shinyanga,chamaguha,5220.0
+shinyanga,chibe,5840.0
+shinyanga,didia,10666.0
+shinyanga,ibadakuli,12540.0
+shinyanga,ibinzamata,5062.0
+shinyanga,ilola,10068.0
+shinyanga,imesela,9049.0
+shinyanga,iselamagazi,18464.0
+shinyanga,itwangi,10036.0
+shinyanga,kambarage,13794.0
+shinyanga,kitangili,8336.0
+shinyanga,kizumbi,11267.0
+shinyanga,kolandoto,11302.0
+shinyanga,lubaga,7043.0
+shinyanga,lyabukande,19492.0
+shinyanga,lyabusalu,24780.0
+shinyanga,lyamidati,21492.0
+shinyanga,masekelo,8787.0
+shinyanga,masengwa,10540.0
+shinyanga,mwakitolyo,20192.0
+shinyanga,mwalukwa,8009.0
+shinyanga,mwamala,10018.0
+shinyanga,mwamalili,7100.0
+shinyanga,mwantini,6692.0
+shinyanga,mwawaza,5665.0
+shinyanga,mwenge,16529.0
+shinyanga,ndala,9433.0
+shinyanga,ndembezi,14835.0
+shinyanga,ngokolo,19654.0
+shinyanga,nsalala,8310.0
+shinyanga,nyamalogo,15360.0
+shinyanga,nyida,6221.0
+shinyanga,old shinyanga,10112.0
+shinyanga,pandagichiza,11082.0
+shinyanga,puni,4494.0
+shinyanga,salawe,17242.0
+shinyanga,samuye,11080.0
+shinyanga,shinyanga mjini,5402.0
+shinyanga,solwa,22218.0
+shinyanga,tinde,14978.0
+shinyanga,usanda,13716.0
+shinyanga,usule,5945.0
+siha,biriri,7768.0
+siha,gararagua,9886.0
+siha,karansi,11396.0
+siha,kashashi,6694.0
+siha,livishi,6140.0
+siha,makiwaru,10700.0
+siha,naeny,10748.0
+siha,nasai,8032.0
+siha,ndumeti,11341.0
+siha,ngarenairobi,9432.0
+siha,olkolili,12896.0
+siha,sanya juu,11283.0
+sikonge,chabutwa,7837.0
+sikonge,igigwa,28872.0
+sikonge,ipole,5838.0
+sikonge,kiloleli,7525.0
+sikonge,kiloli,4690.0
+sikonge,kipanga,9067.0
+sikonge,kipili,20200.0
+sikonge,kisanga,10376.0
+sikonge,kitunda,9710.0
+sikonge,misheni,5594.0
+sikonge,mole,12168.0
+sikonge,mpombwe,6116.0
+sikonge,ngoywa,5984.0
+sikonge,pangale,6983.0
+sikonge,sikonge,17138.0
+sikonge,tutuo,14640.0
+sikonge,usunga,7140.0
+simanjiro,emboreet,8861.0
+simanjiro,endiamtu,13621.0
+simanjiro,endonyongijape,10153.0
+simanjiro,kitwai,5915.0
+simanjiro,komolo,11556.0
+simanjiro,liborsoit,7207.0
+simanjiro,loiborsiret,13566.0
+simanjiro,mrerani,13449.0
+simanjiro,msitu wa tembo,12059.0
+simanjiro,naberera,19815.0
+simanjiro,naisinyai,11147.0
+simanjiro,ngorika,7416.0
+simanjiro,oljoro  no ,15526.0
+simanjiro,orkesumet,5325.0
+simanjiro,ruvu remiti,5077.0
+simanjiro,shambarai,9420.0
+simanjiro,terrat,8587.0
+singida,ikhanoda,10904.0
+singida,ilongero,10636.0
+singida,ipembe,1858.0
+singida,itaja,7114.0
+singida,kijota,9666.0
+singida,kindai,12658.0
+singida,kinyagigi,9409.0
+singida,kinyeto,9056.0
+singida,maghojoa,8985.0
+singida,majengo,9372.0
+singida,makuro,17716.0
+singida,mandewa,17928.0
+singida,merya,8052.0
+singida,mgori,8420.0
+singida,minga,13336.0
+singida,misuna,13059.0
+singida,mitunduruni,10502.0
+singida,mrama,9349.0
+singida,msange,11984.0
+singida,msisi,9313.0
+singida,mtamaa,6980.0
+singida,mtinko,19416.0
+singida,mtipa,8350.0
+singida,mudida,14630.0
+singida,mughamo,7189.0
+singida,mughanga,2046.0
+singida,mughunga,7469.0
+singida,mungumaji,4320.0
+singida,mwankoko,10548.0
+singida,mwasauya,11032.0
+singida,ngimu,11296.0
+singida,ntonge,7908.0
+singida,ughandi,15986.0
+singida,uhamaka,6230.0
+singida,unyambwa,9300.0
+singida,unyamikumbi,12617.0
+singida,utemini,11270.0
+songea,bombambili,28060.0
+songea,gumbiro,5716.0
+songea,kilagano,12477.0
+songea,lilambo,11978.0
+songea,litisha,14362.0
+songea,lizaboni,14817.0
+songea,magagura,16020.0
+songea,mahanje,11994.0
+songea,majengo,7400.0
+songea,maposeni,5796.0
+songea,matarawe,6950.0
+songea,mateka,13538.0
+songea,matimira,11396.0
+songea,matogoro,5128.0
+songea,matumbi,1878.0
+songea,mbinga mhalule,8652.0
+songea,mfaranyaki,9115.0
+songea,misufini,4599.0
+songea,mjimwema,12054.0
+songea,mjini,9442.0
+songea,mkongotema,6549.0
+songea,mletele,5331.0
+songea,mpandangindo,4734.0
+songea,mpitimbi,14556.0
+songea,msamala,18920.0
+songea,mshangano,8206.0
+songea,mtyangimbole,9336.0
+songea,muhukuru,16578.0
+songea,mwengemshindo,2601.0
+songea,ndilimalitembo,1609.0
+songea,ndongosi,6448.0
+songea,peramiho,15030.0
+songea,ruhuwiko,7379.0
+songea,ruvuma,13542.0
+songea,seedfarm,6228.0
+songea,subira,7661.0
+songea,tanga,8758.0
+songea,wino,12298.0
+sumbawanga,chanji,24186.0
+sumbawanga,ilemba,26080.0
+sumbawanga,izia,19460.0
+sumbawanga,kaengesa,28913.0
+sumbawanga,kalambanzite,20788.0
+sumbawanga,kaoze,26310.0
+sumbawanga,kasense,11200.0
+sumbawanga,katandala,12684.0
+sumbawanga,kipeta,25756.0
+sumbawanga,kizwite,16192.0
+sumbawanga,laela,23732.0
+sumbawanga,lusaka,13866.0
+sumbawanga,majengo,15446.0
+sumbawanga,malangali,6743.0
+sumbawanga,matanga,9519.0
+sumbawanga,mazwi,6196.0
+sumbawanga,mfinga,15072.0
+sumbawanga,miangalua,14420.0
+sumbawanga,milanzi,13484.0
+sumbawanga,milepa,15764.0
+sumbawanga,mollo,15706.0
+sumbawanga,mpui,14831.0
+sumbawanga,msanda muungano,7984.0
+sumbawanga,mtowisa,26140.0
+sumbawanga,muze,27437.0
+sumbawanga,ntendo,13328.0
+sumbawanga,old sumbawanga,23295.0
+sumbawanga,pito,15564.0
+sumbawanga,sandulula,18756.0
+sumbawanga,senga,6793.0
+tabora,chemchem,19974.0
+tabora,cheyo,11397.0
+tabora,gongoni,8064.0
+tabora,ifucha,3219.0
+tabora,ikomwa,7152.0
+tabora,ipuli,23444.0
+tabora,isevya,13507.0
+tabora,itetemia,4548.0
+tabora,itonjanda,2714.0
+tabora,kabila,5778.0
+tabora,kakola,3470.0
+tabora,kalunde,8113.0
+tabora,kanyenye,10063.0
+tabora,kiloleni,14213.0
+tabora,kitete,9192.0
+tabora,malolo,3424.0
+tabora,mbugani,15302.0
+tabora,misha,6235.0
+tabora,mtendeni,5536.0
+tabora,ndevelwa,8112.0
+tabora,ngambo,19703.0
+tabora,ntalikwa,4583.0
+tabora,tambukareli,6782.0
+tabora,tumbi,6204.0
+tabora,uyui,6261.0
+tandahimba,chaume,10086.0
+tandahimba,chikongola,6946.0
+tandahimba,chingungwe,7081.0
+tandahimba,dinduma,4406.0
+tandahimba,kitama,12860.0
+tandahimba,kwanyama,4078.0
+tandahimba,litehu,5528.0
+tandahimba,luagala,6653.0
+tandahimba,lukokoda,5328.0
+tandahimba,lyenje,3794.0
+tandahimba,mahuta,5722.0
+tandahimba,maundo,10232.0
+tandahimba,mchichira,5636.0
+tandahimba,mdimbamnyoma,8271.0
+tandahimba,mdumbwe,7228.0
+tandahimba,michenjele,6333.0
+tandahimba,mihambwe,10239.0
+tandahimba,mihuta,4136.0
+tandahimba,milingodi,4785.0
+tandahimba,mkonjowano,5226.0
+tandahimba,mkoreha,10247.0
+tandahimba,mkundi,8203.0
+tandahimba,mkwiti,4819.0
+tandahimba,mnyawa,8152.0
+tandahimba,nambahu,6959.0
+tandahimba,namikupa,8099.0
+tandahimba,nanhyanga,8531.0
+tandahimba,naputa,7671.0
+tandahimba,ngunja,9697.0
+tandahimba,tandahimba,20569.0
+tanga,central,5739.0
+tanga,chongoleani,4737.0
+tanga,chumbageni,14224.0
+tanga,duga,18705.0
+tanga,kiomoni,6586.0
+tanga,kirare,4756.0
+tanga,mabawa,35123.0
+tanga,mabokweni,5434.0
+tanga,majengo,7482.0
+tanga,makorora,16665.0
+tanga,marungu,3026.0
+tanga,maweni,14090.0
+tanga,msambweni,9609.0
+tanga,mwanzange,7521.0
+tanga,mzingani,29044.0
+tanga,mzizima,11570.0
+tanga,ngamiani kaskazini,3910.0
+tanga,ngamiani kati,4755.0
+tanga,ngamiani kusini,7638.0
+tanga,nguvumali,15133.0
+tanga,pongwe,13510.0
+tanga,tangasisi,19150.0
+tanga,tongoni,4594.0
+tanga,usagara,10331.0
+tarime,binagi,9442.0
+tarime,bomani,9164.0
+tarime,bumera,9602.0
+tarime,genyange,7453.0
+tarime,goronga,11060.0
+tarime,itiryo,9972.0
+tarime,kemambo,13336.0
+tarime,kentare,9476.0
+tarime,kibasuka,15136.0
+tarime,kiore,8018.0
+tarime,komaswa,6860.0
+tarime,manga,7250.0
+tarime,matongo,19172.0
+tarime,mbogi,8122.0
+tarime,muriba,10860.0
+tarime,mwema,10205.0
+tarime,nyakonga,6797.0
+tarime,nyamaranga,10967.0
+tarime,nyamisangura,12742.0
+tarime,nyamwaga,13911.0
+tarime,nyandoto,7893.0
+tarime,nyansincha,7064.0
+tarime,nyanungu,11274.0
+tarime,nyarero,12332.0
+tarime,nyarokoba,15666.0
+tarime,pemba,10846.0
+tarime,sabasaba,11525.0
+tarime,sirari,15918.0
+tarime,susuni,10377.0
+tarime,turwa,27242.0
+temeke,azimio,76834.0
+temeke,buza,55090.0
+temeke,chamazi,63672.0
+temeke,changombe,19302.0
+temeke,charambe,101940.0
+temeke,keko,35160.0
+temeke,kibada,8584.0
+temeke,kiburugwa,78910.0
+temeke,kigamboni,30494.0
+temeke,kijichi,69194.0
+temeke,kilakala,44940.0
+temeke,kimbiji,6411.0
+temeke,kisarawe ii,8306.0
+temeke,kurasini,26193.0
+temeke,makangarawe,53294.0
+temeke,mbagala,52574.0
+temeke,mbagala kuu,74766.0
+temeke,mianzini,100648.0
+temeke,miburani,44294.0
+temeke,mjimwema,27784.0
+temeke,mtoni,59364.0
+temeke,pembamnazi,9672.0
+temeke,sandali,52663.0
+temeke,somangila,19283.0
+temeke,tandika,49488.0
+temeke,temeke,26046.0
+temeke,toangoma,44580.0
+temeke,tungi,23378.0
+temeke,vijibweni,29010.0
+temeke,yombo vituka,76990.0
+tunduma,tunduma,97572.0
+tunduru,jakika,3768.0
+tunduru,kalulu,4270.0
+tunduru,kidodoma,9263.0
+tunduru,ligoma,7990.0
+tunduru,ligunga,8452.0
+tunduru,lukumbule,8756.0
+tunduru,majengo,7661.0
+tunduru,marumba,11446.0
+tunduru,masonya,5935.0
+tunduru,matemanga,9396.0
+tunduru,mbati,5548.0
+tunduru,mbesa,15589.0
+tunduru,mchangani,6031.0
+tunduru,mchesi,8782.0
+tunduru,mchoteka,12287.0
+tunduru,mchuluka,3584.0
+tunduru,mindu,4445.0
+tunduru,misechela,8170.0
+tunduru,mlingoti magharibi,4344.0
+tunduru,mlingoti mashariki,6136.0
+tunduru,mtina,17616.0
+tunduru,muhuwesi,17538.0
+tunduru,nakapanya,14404.0
+tunduru,nakayaya,8112.0
+tunduru,nalasi magharibi,8281.0
+tunduru,nalasi mashariki,8004.0
+tunduru,namasakata,9938.0
+tunduru,namiungo,9531.0
+tunduru,nampungu,4692.0
+tunduru,namwinyu,10475.0
+tunduru,nandembo,7663.0
+tunduru,nanjoka,9486.0
+tunduru,ngapa,6069.0
+tunduru,sisikwasisi,5775.0
+tunduru,tuwemacho,8842.0
+ukerewe,bukanda,13342.0
+ukerewe,bukiko,8070.0
+ukerewe,bukindo,15910.0
+ukerewe,bukongo,6196.0
+ukerewe,bukungu,8546.0
+ukerewe,bwiro,18906.0
+ukerewe,bwisya,13140.0
+ukerewe,igalla,17366.0
+ukerewe,ilangala,38006.0
+ukerewe,irugwa,11872.0
+ukerewe,kagera,9427.0
+ukerewe,kagunguli,25128.0
+ukerewe,kakerege,4224.0
+ukerewe,mukituntu,18958.0
+ukerewe,muriti,23016.0
+ukerewe,murutunguru,18154.0
+ukerewe,nakatunguru,8938.0
+ukerewe,namagondo,12035.0
+ukerewe,namilembe,16543.0
+ukerewe,nansio,7676.0
+ukerewe,nduruma,16396.0
+ukerewe,ngoma,18008.0
+ukerewe,nkilizya,7856.0
+ukerewe,nyamanga,7424.0
+ulanga,biro,7122.0
+ulanga,chirombola,5868.0
+ulanga,euga,4599.0
+ulanga,ilonga,12146.0
+ulanga,iragua,17806.0
+ulanga,isongo,7982.0
+ulanga,itete,20750.0
+ulanga,kichangani,6194.0
+ulanga,kilosa kwa mpepo,3254.0
+ulanga,lukande,2897.0
+ulanga,lupiro,16325.0
+ulanga,mahenge,9524.0
+ulanga,malinyi,31246.0
+ulanga,mbuga,8214.0
+ulanga,minepa,16268.0
+ulanga,msogezi,6289.0
+ulanga,mtimbira,15998.0
+ulanga,mwaya,8764.0
+ulanga,ngoheranga,7335.0
+ulanga,ruaha,8744.0
+ulanga,sali,4932.0
+ulanga,sofi,14080.0
+ulanga,usangule,14404.0
+ulanga,vigoi,14451.0
+urambo,imalamakoye,2984.0
+urambo,itundu,6890.0
+urambo,kapilula,4385.0
+urambo,kasisi,9392.0
+urambo,kiloleni,8373.0
+urambo,muungano,13030.0
+urambo,nsenda,14382.0
+urambo,songambele,12911.0
+urambo,ugalla,8733.0
+urambo,ukondamoyo,13464.0
+urambo,urambo,34178.0
+urambo,usisya,13902.0
+urambo,ussoke,8796.0
+urambo,uyogo,18898.0
+urambo,uyumbu,12217.0
+urambo,vumilia,10258.0
+uvinza,buhingu,16976.0
+uvinza,igalula,23864.0
+uvinza,ilagala,47020.0
+uvinza,itebula,24810.0
+uvinza,kalya,22488.0
+uvinza,kandaga,23692.0
+uvinza,kazuramimba,34122.0
+uvinza,mganza,24815.0
+uvinza,mtego wa noti,15314.0
+uvinza,nguruka,27190.0
+uvinza,sigunga,20460.0
+uvinza,simbo,31654.0
+uvinza,sunuka,36022.0
+uvinza,uvinza,35224.0
+uyui,bukumbi,26374.0
+uyui,goweko,13810.0
+uyui,ibelamilundi,15094.0
+uyui,ibiri,17322.0
+uyui,igalula,14574.0
+uyui,ikongolo,13644.0
+uyui,ilolanguru,16111.0
+uyui,isikizya,11129.0
+uyui,kigwa,22924.0
+uyui,kizengi,21358.0
+uyui,loya,24930.0
+uyui,lutende,25106.0
+uyui,mabama,20386.0
+uyui,magiri,13706.0
+uyui,miswaki,11882.0
+uyui,miyenze,19328.0
+uyui,ndono,9380.0
+uyui,nsimbo,9011.0
+uyui,nsololo,15782.0
+uyui,shitage,10220.0
+uyui,tura,19432.0
+uyui,ufulumwa,26965.0
+uyui,upuge,6463.0
+uyui,usagari,11702.0
+wangingombe,igima,14363.0
+wangingombe,igosi,7202.0
+wangingombe,igwachanya,12066.0
+wangingombe,ilembula,15639.0
+wangingombe,imalinyi,8528.0
+wangingombe,kidugala,4838.0
+wangingombe,kijombe,8024.0
+wangingombe,kipengere,7272.0
+wangingombe,luduga,11947.0
+wangingombe,makoga,8304.0
+wangingombe,mdandu,12887.0
+wangingombe,saja,11468.0
+wangingombe,uhambule,6028.0
+wangingombe,ulembwe,10883.0
+wangingombe,usuka,6146.0
+wangingombe,wangama,4099.0
+wangingombe,wangingombe,12114.0
+wete,bopwe,5211.0
+wete,chwale,1698.0
+wete,fundo,1625.0
+wete,gando,2210.0
+wete,jadida,6193.0
+wete,junguni,2547.0
+wete,kambini,3344.0
+wete,kangagani,3135.0
+wete,kinyikani,2296.0
+wete,kipangani,4240.0
+wete,kisiwani,3236.0
+wete,kiungoni,3112.0
+wete,kiuyu kigongoni,2703.0
+wete,kiuyu minungwini,3133.0
+wete,kizimbani,5875.0
+wete,kojani,2358.0
+wete,limbani,3920.0
+wete,maziwani,2051.0
+wete,mchanga mdogo,3280.0
+wete,mjini ole,3531.0
+wete,mpambani,2178.0
+wete,mtambwe kaskazini,5417.0
+wete,mtambwe kusini,3791.0
+wete,mzambarauni takao,2001.0
+wete,ole,7017.0
+wete,pandani,5895.0
+wete,pembeni,1689.0
+wete,piki,3274.0
+wete,selem,2603.0
+wete,shengejuu,1753.0
+wete,ukunjwi,2769.0
+wete,utaani,3829.0
