@@ -173,7 +173,7 @@ def remove(df):
     """
     remove unncessary columns
     """
-    df.drop(['recorded_by', 'amount_tsh', 'payment_type', 'region', 'management_group', 'extraction_type',\
+    df.drop(['recorded_by', 'amount_tsh', 'payment_type', 'region', 'management_group', 'extraction_type', 'quality_group',\
              'extraction_type_group',"source", "gps_height", "source_type", 'scheme_name','scheme_management','subvillage',\
              'num_private','wpt_name','waterpoint_type_group','quantity_group'], axis=1, inplace=True)
     return df
