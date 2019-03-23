@@ -8,7 +8,7 @@
 
 - 목적: 식수 펌프가 언제 지어졌는지, 누가 관리를 해오고 있는지, 무엇으로 지어졌는지, 지어진 지역/마을의 정보, 물의 질과 양 등의 40개의 각 식수 펌프에 대한 피쳐들로 식수 펌프의 작동 여부 예측하여 어떤 피쳐가 가장 큰 영향을 주는지를 알아보자
 
-- Objective: Predict one of three garget classes ('funcional', 'functional needs repair', 'nonfunctional') based on a number of variables about what kind of pump is operating, when it was installed, and how it is managed, and more.
+- Objective: Predict the operating condition of a water pump ( one of three target classes: 'funcional', 'functional needs repair', 'nonfunctional') based on a number of variables about what kind of pump is operating, when it was installed, and how it is managed, and more.
 
 
 - 백그라운드 : 2009년도 UNICEF 데이터에 따르면 이남 아프리카 (sub-Saharan Africa) 에 매년 60,000개 정도의 식수 펌프가 다양한 비영리단체/ 국제기구/ 정부단체에 의해 지어진다 (Sansom and Koestler 2009). 하지만 [Rural Water Supply Network](www.rural-water-supply.net)에 의하면 이렇게 식수 사업으로 아프리카에 설치된 식수펌프 중 30-40%가 작동 하지 않는다. 세계 은행 [World Bank](https://www.theguardian.com/global-development-professionals-network/2016/mar/22/how-do-you-solve-a-problem-like-a-broken-water-pump)은 약 12억 달러의 투자금이 지난 20여년 동안 고장나서 버려진 식수 펌프로 인해 낭비되어왔다고 예측한다. 전문가들은 쉽게 망가지는 식수 펌프에 영향을 주는 요인을 크게 3가지로 보고 있다. (1) 식수 펌프가 저렴한 금속으로 해외에서 제작되어 오기에 고장 나기 쉽다. (2) 식수 펌프와 지하수를 연결하기 위해 드릴을 하는 장소가 잘못 되었거나, 잘못된 방법으로 드릴을 했기 때문이며, (3) 지속적으로 관리를 해주는 on site supervisor가 존재하지 않기 때문이라고 말한다. 주어진 데이터를 통해 어떤 요인들이 식수 펌프 작동에 큰 영향을 주는지를 알아보는 것이 이 프로젝트의 목적이다. 
